@@ -1,4 +1,4 @@
-<!-- <h2>Lector de pdfs Text to Speech </h2>
+<h2>Lector de pdfs Text to Speech </h2>
 
 <p> #Proyecto realizado en PHP, JS, PDF.JS, HTML5, CSS3, BOOTSTRAP, FONT AWESOME. </p>
 
@@ -30,6 +30,6 @@ luna comandos
 luna opciones
 </li>
 </ul>
- -->
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
+
 ![Registro de usuarios administradores de pdfs](https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png)
