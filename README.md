@@ -31,6 +31,5 @@ luna opciones
 </li>
 </ul>
  -->
-
-![Registro de usuarios administradores de pdfs]
-(https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png?)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Registro de usuarios administradores de pdfs](https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png)
