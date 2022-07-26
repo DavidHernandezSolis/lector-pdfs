@@ -4,7 +4,7 @@
 
 <h3>Sección 1 .- "Registro y Loging"</h3>
 
-![Registro de usuarios administradores de pdfs](https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png)
+![Registro de usuarios administradores de pdfs](https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img1.png)
 
 <br>
 
