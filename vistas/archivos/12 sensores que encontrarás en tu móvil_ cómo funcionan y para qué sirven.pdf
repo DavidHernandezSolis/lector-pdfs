@@ -1,0 +1,1922 @@
+<!DOCTYPE html>
+<!-- saved from url=(0073)https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven -->
+<html lang="es" class=" js no-touch csstransforms csstransitions"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl1Omgyb/www-widgetapi.js" async=""></script><script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/analytics.js.descarga"></script><script type="text/javascript" async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/publishertag.prebid.js.descarga"></script>
+  <script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/apstag.js.descarga"></script><script>
+ var country = 'MX';
+ var isSpainOrLatamUser = true;
+</script>
+         <script>
+  var dataLayer = [{"postId":208902,"postUrl":"https:\/\/www.xataka.com\/basics\/12-sensores-que-encontraras-tu-movil-sirven","publishDate":"2018-08-14T10:17:20","modifiedDate":"2018-10-29T18:35:46","categories":["basics"],"tags":["movil","smartphones","trucos-android"]}];
+</script>
+    <script>
+ window.WSL = window.WSL || {};
+ WSL.config = WSL.config || {};
+ WSL.config.enableDidomiOverlay = 0;
+</script>
+
+           <script>
+  var PREBID_TIMEOUT = 2000;
+  var adUnits = [{"code":"div-gpt-top","mediaTypes":{"banner":{"sizes":[[970,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651984"}},{"bidder":"criteo","params":{"zoneId":"1079595"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53842","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286629"}},{"bidder":"ix","params":{"siteId":"310891","size":[970,250]}},{"bidder":"ix","params":{"siteId":"310891","size":[728,90]}},{"bidder":"ix","params":{"siteId":"310891","size":[970,90]}}]},{"code":"div-gpt-lat","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651994"}},{"bidder":"criteo","params":{"zoneId":"1079591"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53844","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286630"}},{"bidder":"ix","params":{"siteId":"310893","size":[300,600]}},{"bidder":"ix","params":{"siteId":"310893","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310893","size":[160,600]}}]},{"code":"div-gpt-lat2","mediaTypes":{"banner":{"sizes":[[300,600],[300,250],[160,600]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"651988"}},{"bidder":"criteo","params":{"zoneId":"1079585"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53847","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286631"}},{"bidder":"ix","params":{"siteId":"310895","size":[300,600]}},{"bidder":"ix","params":{"siteId":"310895","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310895","size":[160,600]}}]},{"code":"div-gpt-cen","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652006"}},{"bidder":"criteo","params":{"zoneId":"1079593"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53864","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286632"}},{"bidder":"ix","params":{"siteId":"310897","size":[970,250]}},{"bidder":"ix","params":{"siteId":"310897","size":[970,90]}},{"bidder":"ix","params":{"siteId":"310897","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310897","size":[728,90]}}]},{"code":"div-gpt-cen2","mediaTypes":{"banner":{"sizes":[[970,250],[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652160"}},{"bidder":"criteo","params":{"zoneId":"1079586"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53852","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286633"}},{"bidder":"ix","params":{"siteId":"310899","size":[970,250]}},{"bidder":"ix","params":{"siteId":"310899","size":[970,90]}},{"bidder":"ix","params":{"siteId":"310899","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310899","size":[728,90]}}]},{"code":"div-gpt-bot2","mediaTypes":{"banner":{"sizes":[[300,250],[728,90]]}},"bids":[{"bidder":"rubicon","params":{"accountId":"11188","siteId":"139324","zoneId":"652164"}},{"bidder":"criteo","params":{"zoneId":"1079584"}},{"bidder":"smartadserver","params":{"siteId":"152984","pageId":"786511","formatId":"53854","domain":"\/\/prg.smartadserver.com"}},{"bidder":"appnexus","params":{"placementId":"11286634"}},{"bidder":"ix","params":{"siteId":"310901","size":[300,250]}},{"bidder":"ix","params":{"siteId":"310901","size":[728,90]}}]}];
+  var pbjs = pbjs || {};
+  var googletag = googletag || {};
+  pbjs.que = pbjs.que || [];
+  googletag.cmd = googletag.cmd || [];
+
+  pbjs.bidderSettings = {
+   aol:           { bidCpmAdjustment : function(bidCpm) { return 0.80 * bidCpm; } },
+   smartadserver: { bidCpmAdjustment : function(bidCpm) { return 0.85 * bidCpm; } }
+  };
+
+  pbjs.que.push(function() {
+       pbjs.setConfig({ priceGranularity: 'dense' });
+     });
+     !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+   apstag.init({
+    pubID: '3500',
+    adServer: 'googletag',
+    bidTimeout: 2e3
+   });
+                var apstagSlots = [  {
+   slotID: 'div-gpt-top',
+   slotName: '/1018282/XTK-TOP-interior',
+   sizes: [[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-lat',
+   slotName: '/1018282/XTK-LAT-interior',
+   sizes: [[160,600],[300,250],[300,600]]
+  },
+   {
+   slotID: 'div-gpt-lat2',
+   slotName: '/1018282/XTK-LAT2-interior',
+   sizes: [[160,600],[300,250],[300,600]]
+  },
+   {
+   slotID: 'div-gpt-cen',
+   slotName: '/1018282/XTK-CEN-interior',
+   sizes: [[300,250],[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-cen2',
+   slotName: '/1018282/XTK-CEN2-interior',
+   sizes: [[300,250],[728,90],[970,90],[970,250]]
+  },
+   {
+   slotID: 'div-gpt-bot2',
+   slotName: '/1018282/XTK-BOT2-interior',
+   sizes: [[300,250],[728,90]]
+  },
+ ];
+     
+   var bidders = ['a9', 'prebid'];
+   var requestManager = {
+    adserverRequestSent: false,
+   };
+   bidders.forEach(function(bidder) {
+    requestManager[bidder] = false;
+   })
+   function _getGPTSlots(apstagSlots) {
+    var slotIDs = apstagSlots.map(function(slot) {
+     return slot.slotID;
+    });
+    return googletag.pubads().getSlots().filter(function(slot) {
+     return slotIDs.indexOf(slot.getSlotElementId()) > -1;
+    });
+   }
+   function allBiddersBack() {
+    var allBiddersBack = bidders
+     .map(function(bidder) {
+      return requestManager[bidder];
+     })
+     .filter(Boolean)
+     .length === bidders.length;
+    return allBiddersBack;
+   }
+   function headerBidderBack(bidder) {
+    if (requestManager.adserverRequestSent === true) {
+     return;
+    }
+    if (bidder === 'a9') {
+     requestManager.a9 = true;
+    } else if (bidder === 'prebid') {
+     requestManager.prebid = true;
+    }
+    if (allBiddersBack()) {
+     sendAdserverRequest();
+    }
+   }
+   function sendAdserverRequest() {
+    if (requestManager.adserverRequestSent === true) {
+     return;
+    }
+    requestManager.adserverRequestSent = true;
+    pbjs.adserverRequestSent = true;
+    requestManager.sendAdserverRequest = true;
+    googletag.cmd.push(function() {
+           apstag.setDisplayBids();
+      pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+         });
+   }
+   function requestBids(apstagSlots, adUnits, bidTimeout) {
+         apstag.fetchBids({
+      slots: apstagSlots,
+      timeout: bidTimeout
+     }, function(bids) {
+      headerBidderBack('a9');
+     });
+    
+    pbjs.que.push(function() {
+     pbjs.addAdUnits(adUnits);
+     pbjs.requestBids({
+      bidsBackHandler: function (bidResponses) {
+       headerBidderBack('prebid');
+      }
+     });
+    });
+
+       }
+   requestBids(apstagSlots, adUnits, PREBID_TIMEOUT)
+   window.setTimeout(function() {
+    sendAdserverRequest();
+   }, PREBID_TIMEOUT);
+   </script>
+   <script src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/prebid.js.descarga" async=""></script>
+            <title>12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="description" content="Lector de huellas dactilares, acelerómetro, magnetómetro, o sensor de proximidad o luz ambiente. Todos ellos son sensores que puedes encontrarte...">
+  <meta name="news_keywords" content="Móvil, smartphones, Trucos Android, Xataka Basics">
+  <meta name="robots" content="noodp">
+<meta property="fb:admins" content="100000716994885">
+<meta property="fb:pages" content="41267802635">
+<meta name="application-name" content="Xataka">
+<meta name="msapplication-tooltip" content="Gadgets y tecnología: últimas tecnologías en electrónica de consumo - XATAKA">
+<meta name="msapplication-starturl" content="https://www.xataka.com">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="msapplication-task" content="name=Lo mejor;action-uri=https://www.xataka.com/lomejor;icon-uri=https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-lomejor-icon.ico">
+ <meta name="msapplication-task" content="name=Respuestas;action-uri=https://www.xataka.com/respuestas;icon-uri=https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-respuestas-icon.ico">
+<!--[if gte IE 9]>
+<link rel="shortcut icon" type="image/x-icon" href="https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-home-icon.ico"/>
+<link rel=icon type="image/ico" href="https://img.weblogssl.com/css/xataka/p/v6/images/pin-bg-home-icon.ico"/>
+<![endif]-->
+<link rel="shortcut icon" href="https://img.weblogssl.com/css/xataka/p/common/favicon.ico" type="image/ico">
+<link rel="apple-touch-icon" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://img.weblogssl.com/css/xataka/p/common/apple-touch-icon-57-precomposed.png">
+  
+    <link rel="alternate" type="application/rss+xml" title="Xataka - todas las noticias" href="https://www.xataka.com/index.xml">
+   <!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="https://img.weblogssl.com/css/xataka/p/v6/ie7.css">
+<![endif]-->
+  <link rel="image_src" href="https://i.blogs.es/a46634/sensores-movil/75_75.jpg">
+   <meta property="og:image" content="https://i.blogs.es/a46634/sensores-movil/840_560.jpg">
+  <meta property="og:title" content="12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven">
+  <meta property="og:description" content="Lector de huellas dactilares, acelerómetro, magnetómetro, o sensor de proximidad o luz ambiente. Todos ellos son sensores que puedes encontrarte...">
+  <meta property="og:url" content="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven">
+  <meta property="og:type" content="article">
+  <meta property="og:updated_time" content="2018-10-29T18:35:46+00:00">
+  <meta name="DC.Creator" content="Yúbal FM">
+  <meta name="DC.Date" content="14 agosto 2018">
+  <meta name="DC.date.issued" content="2018-10-29T18:35:46+00:00">
+  <meta name="DC.Source" content="Xataka">
+  <meta property="article:modified_time" content="2018-10-29T18:35:46+00:00">
+  <meta property="article:published_time" content="2018-08-14T10:17:20+00:00">
+          <link rel="canonical" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven">
+             <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://i.blogs.es/a46634/sensores-movil/1366_521.jpg"><meta name="twitter:site" content="@xataka"><meta name="twitter:title" content="12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven"><meta name="twitter:description" content="Lector de huellas dactilares, acelerómetro, magnetómetro, o sensor de proximidad o luz ambiente. Todos ellos son sensores que puedes encontrarte..."><meta name="twitter:creator" content="@Yubal_FM">      <script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+  <link rel="stylesheet" type="text/css" href="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/main.css">
+  <link rel="amphtml" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven/amp">
+<!-- IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+ <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+        <script async="async" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/gpt.js.descarga"></script>
+
+  <script>
+     googletag.cmd.push(function() {
+             googletag.defineSlot('/1018282/XTK-LAT-interior', [[160,600],[300,250],[300,600],[300,1000]], 'div-gpt-lat').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/XTK-CEN-interior', [[300,250],[670,250],[728,90],[970,90],[970,250],[1000,250]], 'div-gpt-cen').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/XTK-CEN2-interior', [[300,250],[670,250],[728,90],[970,90],[970,250],[1000,250]], 'div-gpt-cen2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/XTK-LAT2-interior', [[160,600],[300,250],[300,600],[300,1000]], 'div-gpt-lat2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/XTK-BOT2-interior', [[300,250],[728,90]], 'div-gpt-bot2').addService(googletag.pubads());
+   googletag.defineSlot('/1018282/XTK-TOP-interior', [[728,90],[970,90],[970,250],[1000,250]], 'div-gpt-top').addService(googletag.pubads());
+     googletag.defineSlot('/1018282/XTK-TXT-interior', [320,112], 'div-gpt-txt').addService(googletag.pubads());
+  googletag.defineOutOfPageSlot('/1018282/XTK-INT-interior', 'div-gpt-int').addService(googletag.pubads());  googletag.defineSlot('/1018282/XTK-INT2-interior', [1,1], 'div-gpt-int2').addService(googletag.pubads());
+ 
+    var MAX_source = "";
+      googletag.pubads().setTargeting("type", "post").setTargeting("source", MAX_source).setTargeting("postId", "208902").setTargeting("postUrl", "https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven").setTargeting("publishDate", "2018-08-14T10:17:20").setTargeting("modifiedDate", "2018-10-29T18:35:46").setTargeting("categories", ["basics"]).setTargeting("tags", ["movil","smartphones","trucos-android"]);
+    googletag.pubads().collapseEmptyDivs();
+     googletag.pubads().disableInitialLoad();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+   });
+ </script><link rel="preload" href="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/f.txt" as="script"><script type="text/javascript" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/f.txt"></script><link rel="preload" href="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/f(1).txt" as="script"><script type="text/javascript" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/f(1).txt"></script><script src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/pubads_impl_2019082901.js.descarga" async=""></script>
+ 
+ <script type="application/ld+json">
+ {
+    "@context": "http:\/\/schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https:\/\/www.xataka.com\/basics\/12-sensores-que-encontraras-tu-movil-sirven",
+    "headline": "12 sensores que encontrar\u00e1s en tu m\u00f3vil: c\u00f3mo funcionan y para qu\u00e9 sirven",
+    "datePublished": "2018-08-14T10:17:20",
+    "dateModified": "2018-10-29T18:35:46",
+    "description": "Lector de huellas dactilares, aceler\u00f3metro, magnet\u00f3metro, o sensor de proximidad o luz ambiente. Todos ellos son sensores que puedes encontrarte...",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Xataka",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/img.weblogssl.com\/css\/xataka\/p\/amp\/images\/logo.png?v=1568017562",
+            "width": 600,
+            "height": 60
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/i.blogs.es\/a46634\/sensores-movil\/1366_2000.jpg",
+        "width": "1200",
+        "height": "900"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Y\u00fabal FM"
+    },
+    "url": "https:\/\/www.xataka.com\/basics\/12-sensores-que-encontraras-tu-movil-sirven",
+    "thumbnailUrl": "https:\/\/i.blogs.es\/a46634\/sensores-movil\/1366_2000.jpg",
+    "articleSection": "Xataka Basics",
+    "creator": "Y\u00fabal FM",
+    "keywords": "M\u00f3vil, smartphones, Trucos Android, Xataka Basics"
+}
+</script>
+     <link id="avast_os_ext_custom_font" href="chrome-extension://mbckjcfnjmoiinpgddefodcighgikkgn/common/ui/fonts/fonts.css" rel="stylesheet" type="text/css"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+ <body class="js-desktop" data-twttr-rendered="true">
+     <div id="fb-share-button" style="left: -9999px; top: -9999px;">
+    Compartir
+    <button class="btn-facebook"></button>
+   </div>
+    <div class="customize-me">
+            <div id="div-gpt-int" style="width:1px; height:1px;">
+ <script>
+  googletag.cmd.push(function() { googletag.display("div-gpt-int"); });
+ </script>
+<div id="google_ads_iframe_/1018282/XTK-INT-interior_0__container__" style="border: 0pt none; width: 1px; height: 1px;"></div></div>
+             <div id="div-gpt-int2" style="width:1px; height:1px;">
+ <script>
+  googletag.cmd.push(function() { googletag.display("div-gpt-int2"); });
+ </script>
+<div id="google_ads_iframe_/1018282/XTK-INT2-interior_0__container__" style="border: 0pt none; width: 1px; height: 1px;"></div></div>
+              <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+   __gaTracker('provide', 'adblockTracker', function(tracker, opts) {
+ var ad = document.createElement('ins');
+ ad.className = 'AdSense';
+ ad.style.display = 'block';
+ ad.style.position = 'absolute';
+ ad.style.top = '-1px';
+ ad.style.height = '1px';
+ document.body.appendChild(ad);
+ tracker.set('dimension3', 'Ads Blocked');
+ document.body.removeChild(ad);
+});
+  __gaTracker('create', "UA-78515-2", 'auto');
+ __gaTracker('create', "UA-78515-62", 'auto', {'name': 'rollUp'});
+ __gaTracker('set', 'contentGroup1', 'post');
+ __gaTracker('set', 'contentGroup2', "yúbal fm");
+ __gaTracker('set', 'contentGroup3', "basics");
+ __gaTracker('set', 'contentGroup4', "normal");
+ __gaTracker('set', 'contentGroup5', "180814");
+ __gaTracker('rollUp.set', 'contentGroup1', 'post');
+ __gaTracker('rollUp.set', 'contentGroup2', "yúbal fm");
+ __gaTracker('rollUp.set', 'contentGroup3', "basics");
+ __gaTracker('rollUp.set', 'contentGroup4', "normal");
+ __gaTracker('rollUp.set', 'contentGroup5', "180814");
+   __gaTracker('require', 'adblockTracker', {dimensionIndex: 2});
+ </script>
+<script>
+ var _comscore = _comscore || [];
+ var configs = {c1: "2", c2: "6035191"};
+ var keyword = keyword || '';
+ if(keyword) {
+  configs.options = {url_append: "comscorekw=" + keyword};
+ }
+ _comscore.push(configs);
+</script>
+<script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/beacon.js.descarga"></script>
+      <div class="head-content-favs">
+         <section class="head-container head-container-with-ad head-container-with-corner m-favicons-compact m-head-masthead">
+ <div class="head head-with-ad is-init">
+  <div class="ad ad-head"></div>
+  <section class="head-favicons-container" style="display: inherit;">
+ <nav class="head-favicons">
+     <div class="head-favicons-index head-webedia-logo">
+    <a id="favicons-toggle" href="https://www.webedia.es/" data-target="#head-favicons"><abbr title="Webedia">Webedia</abbr></a>
+   </div>
+   </nav>
+</section>
+   <div class="masthead-site-lead m-is-compact">
+ <div class="masthead-container">
+  <div class="masthead-logo">
+   <div class="masthead-logo-brand">
+    <a href="https://www.xataka.com/" class="masthead-brand">Xataka</a>
+   </div>
+     </div>
+       <nav class="masthead-actions">
+    <ul class="masthead-actions-list">
+     <li class="masthead-actions-list-item"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#sections" class="masthead-actions-menu m-v1 js-toggle" data-searchbox="#search-field-1">Menú</a></li>
+     <li class="masthead-actions-list-item"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#headlines" class="masthead-actions-nuevo m-v1 js-toggle">Nuevo</a></li>
+    </ul>
+   </nav>
+   </div>
+</div>   <div class="masthead-nano-container js-nano-container " style="display: inherit;">
+ <div class="masthead-nano-lead">
+  <div class="masthead-nano-logo m-xataka-basics">
+   <a href="https://www.xataka.com/categoria/basics">Xataka Basics</a>
+  </div>
+   </div>
+</div>     <div class="masthead-nav-container js-nano-container" style="display: inherit;">
+ <nav class="masthead-nav m-xataka-basics">
+    <ul class="masthead-nav-topics">
+            <li class="masthead-nav-topics-item"><a class="masthead-nav-topics-anchor" href="https://www.xataka.com/tag/trucos-whatsapp">WhatsApp</a></li>
+         <li class="masthead-nav-topics-item"><a class="masthead-nav-topics-anchor" href="https://www.xataka.com/tag/trucos-instagram">Instagram</a></li>
+         <li class="masthead-nav-topics-item"><a class="masthead-nav-topics-anchor" href="https://www.xataka.com/tag/trucos-windows">Windows</a></li>
+         <li class="masthead-nav-topics-item"><a class="masthead-nav-topics-anchor" href="https://www.xataka.com/tag/trucos-android">Android</a></li>
+         <li class="masthead-nav-topics-item"><a class="masthead-nav-topics-anchor" href="https://www.xataka.com/tag/guias-y-trucos-a-fondo">A fondo</a></li>
+         </ul>
+      <ul class="masthead-nav-social">
+           <li class="masthead-nav-social-item"><a href="https://twitter.com/xatakabasics" class="masthead-nav-social-anchor masthead-social-twitter" rel="nofollow">Twitter</a></li>
+
+             <li class="masthead-nav-social-item"><a href="https://www.facebook.com/xatakabasics/" class="masthead-nav-social-anchor masthead-social-facebook" rel="nofollow">Facebook</a></li>
+
+           </ul>
+   </nav>
+</div>
+  </div>
+</section>
+
+                   <div class="ad ad-top">
+ <div class="ad-box" id="div-gpt-top">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-top"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-TOP-interior_0__container__" style="border: 0pt none; width: 728px; height: 90px;"></div></div>
+</div>
+             <div class="page-container">
+     <div class="content-container">
+      <main>
+                          <article class="article article-normal  ">
+                               <div class="article-header article-normal-header">
+  <header>
+   <h1><span>12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven</span></h1>
+  </header>
+ </div>
+           <div class="article-content-wrapper">
+            <div class="article-content-inner">
+             <div class="article-header article-normal-header">
+ <header>
+  <div class="article-normal-header-content">
+       <div class="article-asset-big article-asset-image js-post-images-container">
+     <img alt="12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven" srcset="https://i.blogs.es/a46634/sensores-movil/450_1000.jpg 450w, https://i.blogs.es/a46634/sensores-movil/650_1200.jpg 650w, https://i.blogs.es/a46634/sensores-movil/1024_2000.jpg 1024w, https://i.blogs.es/a46634/sensores-movil/1366_2000.jpg 1366w" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/450_1000.jpg" sizes="100vw"><span></span>
+    </div>
+          <div class="article-actions">
+               <div class="article-comments"><a title="2 Comentarios" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#comments" class="js-smooth-scroll">2 Comentarios</a></div>
+    </div>
+     </div>
+ </header>
+              <div class="article-aside m-normal-first-aside">
+  <div class="article-aside-content">
+               <div class="ad ad-lat">
+ <div class="ad-box" id="div-gpt-lat">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-lat"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-LAT-interior_0__container__" style="border: 0pt none; width: 160px; height: 600px;"></div></div>
+</div>
+           
+<script>
+ window.WSLModules = window.WSLModules || {};
+ WSLModules.Overlay = {'moduleConf' : "c1"};
+</script>
+<div class="related-alts-container">
+  <section class="related-alts">
+  <ul>
+               <li class="related-native-item">
+      <span class="sidebar-disclaimer">
+       Ofrecido por Huawei
+      </span>
+             <div class="related-item m-is-brand-article">
+        <a href="https://www.xataka.com.mx/n/3-innovaciones-que-hacen-huawei-p30-pro-dispositivo-revolucionario" rel="nofollow">
+         <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/1366_2000.jpg" alt="3 innovaciones que hacen del Huawei P30 Pro un dispositivo revolucionario">
+         <div class="related-item-info">
+          <h3 class="related-item-title">3 innovaciones que hacen del Huawei P30 Pro un dispositivo revolucionario</h3>
+         </div>
+        </a>
+       </div>
+             <div class="related-item m-is-brand-article">
+        <a href="https://www.xatakamovil.com/n/cuantos-modos-camara-necesarios-smartphone-huawei-p30-pro-te-da-todos" rel="nofollow">
+         <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/1366_2000(1).jpg" alt="¿Cuántos modos de cámara son necesarios en un smartphone?">
+         <div class="related-item-info">
+          <h3 class="related-item-title">¿Cuántos modos de cámara son necesarios en un smartphone?</h3>
+         </div>
+        </a>
+       </div>
+           </li>
+         </ul>
+ </section>
+</div>
+
+               <div class="related-alts-container">
+         <div class="aside-box aside-newsletter-box">
+       <p class="aside-title">Suscríbete a Xataka</p>
+    <form class="js-subscription newsletter-form aside-newsletter-form" method="post" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka">
+     <p class="newsletter-hint">Recibe un email al día con nuestros artículos: </p>
+     <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">
+     <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>
+    </form>
+          <nav class="menu-follow aside-menu-follow">
+     <span class="item-meta aside-item-meta">Síguenos</span>
+     <ul>
+            <li><a href="https://twitter.com/xatakabasics" class="icon-twitter link-twitter" rel="nofollow">Twitter</a></li>
+                   <li><a href="https://www.facebook.com/xatakabasics/" class="icon-facebook link-facebook" rel="nofollow">Facebook</a></li>
+                                                           </ul>
+    </nav>
+     </div>
+ </div>
+                <div class="ad ad-lat2">
+  <div class="ad-box" id="div-gpt-lat2">
+   <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+   <script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-lat2"); });
+   </script>
+  <div id="google_ads_iframe_/1018282/XTK-LAT2-interior_0__container__" style="border: 0pt none; width: 160px; height: 600px;"></div></div>
+ </div>
+         </div>
+ </div>
+</div>
+                        <div class="article-metadata-container">
+            <div class="article-metadata">
+                          <div class="article-time">
+                             <time class="article-date" datetime="2018-08-14T10:17:20+00:00" data-format="D MMMM YYYY" data-post-modified-time="1540838146" data-post-modified-format="D MMMM YYYY, HH:mm">14 Agosto 2018</time><time>Actualizado 29 Octubre 2018, 12:35</time>
+                            <span id="is-editor"></span>
+             </div>
+                                                      <footer class="article-author">
+               <a class="article-author-avatar" href="https://www.xataka.com/autor/yubal" rel="author"><img alt="yubal" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/2dfc6428fbf840b61b15d1f118225acc.png"></a>
+               <a class="article-author-link" href="https://www.xataka.com/autor/yubal" rel="author">Yúbal FM</a>
+                               <a class="article-author-twitter" href="http://www.twitter.com/Yubal_FM">@Yubal_FM</a>
+                             </footer>
+                         </div>
+                       </div>
+           <div class="article-content">
+                                                   <div class="blob js-post-images-container">
+                                        <p>Lector de huellas dactilares, acelerómetro, magnetómetro, o sensor de proximidad o luz ambiente. Todos ellos son <strong>sensores que puedes encontrarte en tu smartphone</strong>, y hoy vamos a explicar para qué sirven doce de los que es más probable que te encuentres en tu móvil. </p>
+<!-- BREAK 1 -->
+<p>Cuando se presenta un nuevo dispositivo, en su ficha completa podrás encontrarte una lista de todos los sensores que incluye. <strong>Algunos son comunes y hoy en día los tienen casi todos los móviles</strong>, como el GPS, el giroscopio o el sensor de proximidad, pero también hay otros como el lector de iris o el sensor infrarrojo por los que no apuestan todos los fabricantes.</p>
+<!-- BREAK 2 -->
+<!--more-->
+
+<h2>Acelerómetro</h2>
+
+<div class="article-asset-video article-asset-large">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/dW61ApE0Yar6M.html" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen="">   </iframe>
+  </div>
+ </div>
+</div>
+
+<p>El acelerómetro es un componente mecánico muy parecido a un chip, de un tamaño reducido gracias a su nanotecnología, y fabricado en silicio. <strong>El acelerómetro sirve para que el móvil sepa en qué orientación está colocado</strong>, de manera que el dispositivo pueda saber cuándo lo estás mirando en horizontal, o en vertical, e incluso cuándo lo has colocado boca abajo.</p>
+<!-- BREAK 3 -->
+<p>El acelerómetro del móvil consta de una parte móvil que se mueve dependiendo de la aceleración que le apliques, y de otra fija que interpreta el voltaje resultante de este movimiento para determinar la velocidad a la que lo hace y su orientación.  En los móviles <strong>suelen estar compuestos de tres ejes</strong> para medir el movimiento en un espacio tridimensional.</p>
+<!-- BREAK 4 -->
+<h2>Barómetro</h2>
+
+<p>Algunos modelos de móviles también cuentan con un barómetro. Se trata de un sensor <strong>cuya única misión es la de medir la presión ambiental del aire</strong>. Con esto, el móvil puede medir la altura a la que nos encontramos, lo que en algunas aplicaciones puede ayudar con el posicionamiento del GPS.</p>
+<!-- BREAK 5 -->
+<h2>Giroscopio</h2>
+
+<div class="article-asset-video article-asset-large">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/12vIxGkOegyXe0.html" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">   </iframe>
+  </div>
+ </div>
+</div>
+
+<p><a href="https://www.xatakandroid.com/aplicaciones-android/giroscopio-en-el-movil-estos-son-todos-los-usos-menos-conocidos">El giroscopio</a> es otro sensor que mide la aceleración no gravitacional, y que está destinado a <strong>complementar la información sobre la orientación del móvil</strong> que ofrece el acelerómetro. Para eso, añade una cuarta dimensión de movimiento que mide la rotación o el giro del móvil. Cuando alguna app te pide inclinar ligeramente la pantalla del móvil, es el giroscopio el que entra en acción para medir esos pequeños giros, ya que con ellos el acelerómetro no es suficiente.</p>
+<!-- BREAK 6 -->
+<p>Igual que el acelerómetro, el giroscopio está compuesto por MEMS (Sistemas microelectromecánicos), por lo que tiene piezas mecánicas pero de tamaño microscópico gracias a la nanotecnología. Se compone de brazos en constante vibración, que <strong>varía cuando un movimiento incide en ella</strong>, y estos cambios son leídos por un brazo de detección.</p>
+<!-- BREAK 7 -->
+<h2>GPS del móvil</h2>
+
+<p>Los sensores GPS del móvil están diseñados para estar <strong>continuamente leyendo la señal que le transmiten los satélites de GPS</strong>, utilizando por lo general la señal de varios de ellos para triangular tu posición. Esta señal no consume datos, pero puede ser más débil en interiores, haciendo que tu posición sea más difícil de medir cuando estás dentro de tu casa.</p>
+<!-- BREAK 8 -->
+<p>Por lo general, suele utilizar los ángulos de intersección de al menos tres satélites respecto a nuestro móvil para triangular dónde se encuentra. Cada vez más, a estos datos también se les une la distancia que hay del móvil a las torres de telefonía móvil para obtener una ubicación más precisa.</p>
+<!-- BREAK 9 -->
+<p>El GPS del móvil lo puedes utilizar para varios tipos de aplicaciones, desde para guiarte a través de aplicaciones de navegación hasta para situarte en el mapa cuando utilizas juegos como Pokémon Go. Se trata de <strong>una función que puedes desactivar manualmente</strong> en el caso de que prefieras no posicionarte para ahorrar algo de batería, ya que por el contrario el móvil estará situándose continuamente.</p>
+<!-- BREAK 10 -->
+<h2>Lector de huella dactilar</h2>
+
+<div class="article-asset-video article-asset-large">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/S6OcAWWCCe1hK.html" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">   </iframe>
+  </div>
+ </div>
+</div>
+
+<p>Contiene una serie de sensores capacitivos en una superficie sobre la que pones el dedo, y con la que el móvil es capaz de <strong>reconocer las líneas de nuestra huella dactilar</strong> y almacenar una imagen digital de estas. Entonces, cuando luego volvemos a poner el dedo encima el móvil puede comparar las líneas y saber si realmente somos nosotros o es otra persona.</p>
+<!-- BREAK 11 -->
+<p>Este sensor se utiliza como método biométrico para la identificación del usuario. De esta manera, en vez de utilizar un patrón, contraseña o PIN para verificar tu identidad es suficiente con utilizar tu huella dactilar para desbloquear el móvil o identificarte en aplicaciones.</p>
+<!-- BREAK 12 -->
+<h2>Lector de Iris</h2>
+
+<p>Se trata de un sistema de reconocimiento similar al de la huella dactilar, pero aplicado en el iris del ojo. Para ello, el lector lee y <strong>reconoce los patrones que hay en tu iris</strong> realizando una fotografía de alta resolución apoyada por luz infrarroja para reducir los reflejos. Una vez el móvil almacena ese patrón, lo utilizará después para reconocer si eres tú u otra persona quienes está intentando utilizarlo. Este lector sirve como método biométrico para la identificación del usuario.</p>
+<!-- BREAK 13 -->
+<h2>Podómetro</h2>
+
+<div class="article-asset-image article-asset-normal"><div class="asset-content"> <img class="centro_sinmarco" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/450_1000(1).jpg" data-sf-srcset="https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/450_1000.jpg 450w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/650_1200.jpg 681w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/1024_2000.jpg 1024w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/450_1000.jpg" alt="Podometro" srcset="https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/450_1000.jpg 450w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/650_1200.jpg 681w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/1024_2000.jpg 1024w, https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/1366_2000.jpg 1366w"><noscript><img alt="Podometro" src="https://i.blogs.es/5d24f8/13467474815_e7dcac824c_k/450_1000.jpg"></noscript> </div></div>
+
+<p>El podómetro es un sensor destinado a <strong>medir el número de pasos que damos</strong> cuando estamos caminando. Sin embargo, a día de hoy muchos móviles ya prescinden de él, sacrificando un poco de precisión para emular ese funcionamiento a partir de los datos obtenidos con el acelerómetro del móvil. </p>
+<!-- BREAK 14 -->
+<p>En ambos casos la misión es la misma, la de ayudarte a contar la cantidad de pasos que das a lo largo del día, algo de lo que suelen aprovecharse las aplicaciones de salud para medir también las calorías que has ido quemando a lo largo del día.</p>
+<!-- BREAK 15 -->
+<h2>Sensor Hall o magnetómetro</h2>
+
+<p>El magnetómetro es un sensor electrónico que miden y cuantifican las fuerzas magnéticas. <strong>Suele utilizarse como brújula electrónica</strong> configurándolo para detectar el polo norte magnético de la tierra, y así definir dónde está el polo geográfico. Sin embargo, también tiene otros usos como el de las fundas que bloquean o cambian el aspecto del móvil los móviles al cerrarse.</p>
+<!-- BREAK 16 -->
+<h2>Sensor de proximidad</h2>
+
+<div class="article-asset-video article-asset-large">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/r5kM0gMH7ydjO.html" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">   </iframe>
+  </div>
+ </div>
+</div>
+
+<p>El sensor de proximidad es el encargado de permitirle al móvil saber, por ejemplo, cuándo nos acercamos el móvil a la cara para que este pueda apagar la pantalla. <strong>Está compuesto por un LED infrarrojo</strong> que emite un rayo invisible al ojo humano, y un receptor de infrarrojos que detecta la vuelta del rayo cuando rebota con una superficie. </p>
+<!-- BREAK 17 -->
+<p>Su funcionamiento por lo tanto es sencillo, y <strong>se basa en el tiempo que tarda ese rayo infrarrojo en volver</strong>. Cuánto más tarde la luz más lejos estará el objeto. Entre sus funciones está la mencionada de apagar la pantalla cuando la acercamos a la cara al hablar, pero también otras como desbloquear el móvil al pasar la palma de la mano por encima y leer diferentes gestos que podamos hacer con la mano sobre la pantalla.</p>
+<!-- BREAK 18 -->
+<h2>Sensor de luz ambiental</h2>
+
+<p>El sensor de luz es un componente cuya misión es la de <strong>detectar la cantidad de luz que hay en el ambiente</strong>. Con ello, el móvil es capaz de gestionar el brillo de la pantalla cuando tienes activada la opción de brillo automático, ajustándolo de forma diferente en exteriores e interiores a partir de la luz que haya cuando estás utilizando el móvil.</p>
+<!-- BREAK 19 -->
+<h2>Sensor de ritmo cardíaco</h2>
+
+<div class="article-asset-video article-asset-large">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/NpwAAKRQTw4UM.html" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen="">   </iframe>
+  </div>
+ </div>
+</div>
+
+<p>Consiste en un LED y un sensor óptico. Su funcionamiento es simple, y el usuario sólo tiene que presionar con su piel sobre el sensor de manera que no haya luz ambiente entre ellos. Entonces, se emite la luz LED en la piel, y el sensor busca y <strong>reconoce los ritmos de los cambios de color</strong> en nuestro dedo provocados por nuestras pulsaciones. El ritmo es el que determina las pulsaciones.</p>
+<!-- BREAK 20 -->
+<p>En soluciones avanzadas, un sensor de este tipo también puede estimar el nivel de oxígeno en la sangre. Para ello utiliza un LED de amplio espectro y mide el espectro que recibe de vuelta el sensor. Dependiendo del nivel de oxígeno en la sangre, la luz se absorbe de una u otra manera.</p>
+<!-- BREAK 21 -->
+<h2>Sensor infrarrojo</h2>
+
+<p>Algunos móviles también implementan sensores infrarrojos <strong>para permitirte controlar otros dispositivos del hogar</strong> haciendo de mando a distancia. De esta manera, con el propio móvil puedes controlar el televisor o el aire acondicionado. Sin embargo, este no es un sensor por el que apuesten todos los fabricantes o sea que tendrás que estar atento para saber si el móvil que quieres lo tiene o no.</p>
+<!-- BREAK 22 -->
+<p>Imágenes | <a href="https://www.flickr.com/photos/janitors/13467474815">Kārlis Dambrāns</a><br>
+En Xataka Basics | <a href="https://www.xataka.com/basics/megapixeles-ram-snapdragon-guia-basica-para-saber-que-fijarte-al-comprar-movil-nuevo">¿Megapíxeles, RAM, Snapdragon? Guía básica para saber en qué fijarte al comprar un móvil nuevo</a></p>
+<!-- BREAK 23 -->                                        </div>
+                                                               
+                                      <section class="section-instagram-container">
+  <div class="section-instagram">
+   <header>
+    <p class="section-header-instagram">
+     <a href="https://www.instagram.com/xataka/">
+      Xataka en Instagram
+     </a>
+    </p>
+   </header>
+   <ul class="section-instagram-list">
+         <li class="section-instagram-item">
+      <a href="https://www.instagram.com/p/B2MJATqAEqX/" data-link="https://www.instagram.com/p/B2MJATqAEqX/" data-number="1"><img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/67983943_166265407760075_4952173851298608267_n.jpg" alt="Esta fotografía de la Luna fue tomada el 6 de marzo de 1865 por Lewis M. Rutherfurd. Su dedicación a la astronomía le llevó a experimentar con la fotografía astronómica, siendo inventor de varios instrumentos, incluido el primer telescopio diseñado específicamente para astrofotografía. Con ello consiguió capturar fotografías del Sol, la Luna y los planetas con una calidad sin precedentes en la época. Rutherfurd legó sus fotografías originales a la Universidad de Columbia.⁣
+⁣
+⁣⁣
+💬 ¿Qué te parece? Deja tus comentarios⁣⁣⁣
+⁣⁣⁣
+Síguenos 👉@xataka⁣⁣⁣
+---⁣⁣⁣
+#tech #xataka #science #astrophotography #moon #astro_photography_ #nightscaper #astronomy #nightphotography #moonpics #astrofotografia #history"></a>
+     </li>
+         <li class="section-instagram-item">
+      <a href="https://www.instagram.com/p/B2KaUdeglKx/" data-link="https://www.instagram.com/p/B2KaUdeglKx/" data-number="2"><img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/68837084_103593630963499_5099415015788627078_n.jpg" alt="🙌 Esta preciosidad es una edición especial creada por @overchilled_pcbuilds con motivo del 15 aniversario de @warcraft ⁣
+⁣
+💬 ¿Qué te parece? Deja tus comentarios⁣⁣⁣
+⁣⁣⁣
+Síguenos 👉@xataka⁣⁣⁣
+---⁣⁣⁣
+#tech #xataka #pcbuild #battlestation #gaming #warcraftphotography ⁣#pcporn #gamingpc #pcsetups #pcmods"></a>
+     </li>
+         <li class="section-instagram-item">
+      <a href="https://www.instagram.com/p/B2JkOG2lOu5/" data-link="https://www.instagram.com/p/B2JkOG2lOu5/" data-number="3"><img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/70949657_146249266594052_7720827266764651250_n.jpg" alt="A veces odiamos tanto ese cable. 😡 #HumorGeek⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣
+⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣
+💬 ¿Te suele pasar? Deja tus comentarios⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣.⁣
+⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣
+Síguenos 👉@xataka⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣
+⁣⁣⁣⁣⁣⁣⁣⁣⁣---⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣⁣
+#humor #geek #tech #xataka #headphones"></a>
+     </li>
+         <li class="section-instagram-item">
+      <a href="https://www.instagram.com/p/B2Hvek_HAF4/" data-link="https://www.instagram.com/p/B2Hvek_HAF4/" data-number="4"><img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/69275783_823194301408396_1371570945246423812_n.jpg" alt="Espectacular imagen aérea de Nueva York al anochecer, tomada por Andrew Griffiths @lensaloft en concreto de Manhattan y desde helicóptero 🚁 ⁣
+⁣
+⁣⁣
+💬 ¿Qué te parece? Deja tus comentarios⁣⁣⁣
+⁣⁣⁣
+Síguenos 👉@xataka⁣⁣⁣
+---⁣⁣⁣
+#tech #xataka #newyorkcity #centralpark #manhattan #nyc #aerial #architectanddesign #travel #aerialphotography #architecture"></a>
+     </li>
+         <li class="section-instagram-item">
+      <a href="https://www.instagram.com/p/B2G_3dKgFFM/" data-link="https://www.instagram.com/p/B2G_3dKgFFM/" data-number="5"><img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/68703737_132742961340764_9025816319534377218_n.jpg" alt="Sin importar cuál sea la razón por la que te gusta la tecnología, siempre es gratificante mirar un buen documental que nos enseñe algo y nos haga aprender o simplemente pasar el rato. Y ahora mismo en @netflixes podemos encontrar una amplia variedad de títulos listos para atraparnos. Aquí hemos elegido algunos de los mejores documentales de tecnología disponibles en Netflix.⁣
+⁣
+⁣⁣
+💬 ¿Qué te parece? Deja tus comentarios⁣⁣⁣
+⁣⁣⁣
+Síguenos 👉@xataka⁣⁣⁣
+⁣⁣⁣
+---⁣⁣⁣
+#tech #xataka #tecnología #sciencie #ciencia #netflix #documentales #tv #instatech #hack #geek"></a>
+     </li>
+       </ul>
+   <div class="section-instagram-nav-container">
+    <p class="section-instagram-follow">
+     <a class="btn-instagram-follow" href="https://www.instagram.com/xataka/">Seguir</a>
+    </p>
+   </div>
+  </div>
+ </section>
+
+                        <div class="article-links">
+             <div class="article-social-share js-article-social-share m-in-links">
+              <p>Compartir <q class="article-social-share-meta">12 sensores que encontrarás en tu móvil: cómo funcionan y para qué sirven</q></p>
+              <ul>
+ <li><a href="http://www.facebook.com/dialog/feed?app_id=355823546895&amp;redirect_uri=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven&amp;link=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven" class="btn-facebook js-btn-facebook" data-postname="12-sensores-que-encontraras-tu-movil-sirven">Facebook</a></li>
+ <li><a href="https://twitter.com/intent/tweet?url=https://www.xataka.com/p/208902&amp;text=12%20sensores%20que%20encontrar%C3%A1s%20en%20tu%20m%C3%B3vil%3A%20c%C3%B3mo%20funcionan%20y%20para%20qu%C3%A9%20sirven&amp;via=xataka" class="btn-twitter js-btn-twitter" data-postname="12-sensores-que-encontraras-tu-movil-sirven">Twitter</a></li>
+ <li><a href="mailto:?subject=12%20sensores%20que%20encontrar%C3%A1s%20en%20tu%20m%C3%B3vil%3A%20c%C3%B3mo%20funcionan%20y%20para%20qu%C3%A9%20sirven&amp;body=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven%3Futm_source%3Dsharebutton%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3D09_Sep_2019%26utm_term%3DCLICK%2BON%2BTITLE" class="btn-email js-btn-email" data-postname="12-sensores-que-encontraras-tu-movil-sirven">E-mail</a></li>
+</ul>             </div>
+              <div class="article-topics-list">
+ <span class="article-topic-desc">Temas</span>
+ <ul class="article-topics-categories">
+     <li><a class="article-topic-link" href="https://www.xataka.com/categoria/basics">Xataka Basics</a></li>
+   </ul>
+ <ul class="article-topics-tags">
+     <li><a class="article-topic-link" href="https://www.xataka.com/tag/movil">Móvil</a></li>
+     <li><a class="article-topic-link" href="https://www.xataka.com/tag/smartphones">smartphones</a></li>
+     <li><a class="article-topic-link" href="https://www.xataka.com/tag/trucos-android">Trucos Android</a></li>
+   </ul>
+</div>            </div>
+           </div>
+          </div>
+          <div class="article-content-outer">
+           <div class="article-social-share js-article-social-share m-in-normal">
+            <p>Compartir</p>
+            <ul>
+ <li><a href="http://www.facebook.com/dialog/feed?app_id=355823546895&amp;redirect_uri=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven&amp;link=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven" class="btn-facebook js-btn-facebook" data-postname="12-sensores-que-encontraras-tu-movil-sirven">Facebook</a></li>
+ <li><a href="https://twitter.com/intent/tweet?url=https://www.xataka.com/p/208902&amp;text=12%20sensores%20que%20encontrar%C3%A1s%20en%20tu%20m%C3%B3vil%3A%20c%C3%B3mo%20funcionan%20y%20para%20qu%C3%A9%20sirven&amp;via=xataka" class="btn-twitter js-btn-twitter" data-postname="12-sensores-que-encontraras-tu-movil-sirven">Twitter</a></li>
+ <li><a href="mailto:?subject=12%20sensores%20que%20encontrar%C3%A1s%20en%20tu%20m%C3%B3vil%3A%20c%C3%B3mo%20funcionan%20y%20para%20qu%C3%A9%20sirven&amp;body=https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven%3Futm_source%3Dsharebutton%26utm_medium%3Demail%26utm_content%3DPOST%26utm_campaign%3D09_Sep_2019%26utm_term%3DCLICK%2BON%2BTITLE" class="btn-email js-btn-email" data-postname="12-sensores-que-encontraras-tu-movil-sirven">E-mail</a></li>
+</ul>           </div>
+          </div>
+         </div>
+         </article>
+                                            <div class="ad ad-cen">
+ <div class="ad-box" id="div-gpt-cen">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-cen"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-CEN-interior_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+</div>
+                                     <div id="recommendedPosts" class="section-related"></div>
+  <script>
+    window.WSLModules = window.WSLModules || {};
+    WSLModules.recommendation = {'moduleConf' : 'Amplify'};
+    __gaTracker('send', 'event', 'recommendation' + WSLModules.recommendation.moduleConf, 'view', {'nonInteraction': 1});
+  </script>
+                <script>
+(function() {
+ var lazyElements    = document.getElementsByClassName('sf-lazy')
+ ,   disableDesktopLazyLoading = "1"
+ ,   srcsetSupported = false
+ ,   threshold;
+
+ if (!/Edge\/\d+/.test(navigator.userAgent)) {
+  srcsetSupported = 'srcset' in document.createElement('img');
+ }
+
+ function updateAttributes(element) {
+  var sfSrcset = element.getAttribute('data-sf-srcset') || element.getAttribute('sf-srcset');
+  var sfSrc = element.getAttribute('data-sf-src') || element.getAttribute('sf-src');
+  var sizes = element.getAttribute('data-sizes');
+  if (sfSrcset) {
+   element.setAttribute('srcset', sfSrcset);
+  }
+  if (sfSrc) {
+   element.setAttribute('src', sfSrc);
+  }
+  if (sizes) {
+   element.setAttribute('sizes', sizes);
+  }
+  element.classList.remove('sf-lazy');
+ }
+
+ threshold = (window.innerHeight || document.documentElement.clientHeight) + 100;
+ function lazyLoad() {
+  var coords, element, i, isVisible;
+  if (0 == lazyElements.length) {
+   document.removeEventListener('scroll', lazyLoad);
+   return false;
+  }
+
+  for (i = 0; i < lazyElements.length; i++) {
+   element = lazyElements[i];
+   coords = element.getBoundingClientRect();
+   isVisible = (coords.top >= 0 && coords.left >= 0 && coords.top) <= threshold;
+   if (isVisible) {
+    updateAttributes(element);
+   }
+  }
+ }
+
+ if (srcsetSupported) {
+  if ('1' == disableDesktopLazyLoading) {
+   while(lazyElements.length > 0) {
+    updateAttributes(lazyElements[0]);
+   }
+  } else {
+   document.addEventListener('scroll', lazyLoad);
+   lazyLoad();
+  }
+ }
+})();
+</script>               <script>
+ window.WSLModules || (window.WSLModules = {});
+ WSLModules.Comments || (WSLModules.Comments = {
+   'moduleConf' : 'c9'
+ });
+</script>
+<a id="to-comments"></a>
+<div id="comments">
+ <div class="comment-section">
+     <div id="main-container" class="comment-section">
+  <div id="common-container">
+   <div class="comment-wrapper initial-comments" style="display:none">
+    <div class="comments-list">
+     <p>Los mejores comentarios:</p>
+     <ul id="initial-comments"></ul>
+    </div>
+   </div>
+   
+   <div id="comment-wrapper" class="comment-wrapper comment-wrapper-aside">
+    <div id="comments-area" class="comments-list" style="">
+     <div id="comment-header"><h2>
+  2 comentarios 
+</h2>
+<div class="comments-common-actions ">
+  <div class="context-menu comments-settings ">
+    <a id="comments-sort-button" class="btn btn-context btn-settings js-toggle" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#comments-options-menu">Opciones</a>
+    <ul id="comments-options-menu" class="context-menu-list" style="display: none;">
+      <li class="comment-actions-sort" data-orderby="valued"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Ver primero mejor valorados</a></li>
+      <li class="comment-actions-sort" data-orderby="cronolog"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Primero más antiguos</a></li>
+      <li class="comment-actions-sort" data-orderby="recent"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Primero más recientes</a></li>
+    </ul>
+  </div>
+  <div class="article-comments-write">
+  
+    <a class="btn btn-comment js-toggle show-comment is-opened" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#comments-write-form">Escribir comentario</a>
+  
+</div>
+</div></div>
+     <div id="comments-write-form" class="comment-write-form" style="display: block;"><div><form action="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" method="post" class="commentform" onsubmit="return false">
+  <div class="comment-write-terms"><a href="https://www.xataka.com/auth/comment-terms" target="_blank">Normas <span>de participación</span></a></div>
+  <div class="comment-write-author">
+    <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#"><img class="user-avatar" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/avatar.png" alt="Usuario"></a>
+    <a class="loginModalBox js-open-login" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#"> Entra para comentar </a>
+  </div>
+  <div class="comment-write-input">
+    <textarea name="text" cols="60" rows="10" class="commentBox" required="true"></textarea>
+  </div>
+  <fieldset class="comment-write-notify">
+  <legend>Recibir por e-mail:</legend>
+  <p><label><input type="radio" name="notify" value="1"> Todos</label></p>
+  <p><label><input type="radio" name="notify" value="2"> Sólo respuestas a los míos</label></p>
+  <p><label><input type="radio" name="notify" checked="checked" value="0"> Nada</label> </p>
+</fieldset>
+  <div class="comment-submit">
+    
+    <button class="btn-primary btn-disabled comment-publish" disabled="disabled">Publicar</button>
+  </div>
+</form></div></div>
+     <!-- .comment-write-form -->
+     <ul id="comments-before-ad"></ul>
+          <ul id="comments-list"><li id="c1277080" class="comment-item">
+  
+
+  
+
+  
+    <div class="comment-author">
+  <a class="comment-author-avatar" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#usuario/joseignacio7ss" title="Ir a la página de usuario de Jose Ignacio" rel="nofollow">
+    <img class="user-avatar" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/583538_1.png" alt="Avatar de joseignacio7ss">
+    
+  </a>
+  <p class="comment-author-name">
+    <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#usuario/joseignacio7ss" rel="nofollow">
+      Jose Ignacio
+    </a>
+  </p>
+  
+    <div class="comment-author-stars">
+      
+        <span>*</span>
+      
+        <span>*</span>
+      
+    </div>
+  
+</div>
+  
+
+  <div class="comment-date">
+    <a class="permanlink" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#c1277080" title="Copiar enlace a este comentario">
+      <time class="comment-time" datetime="2018-08-14">14 Ago. 2018, 9:29</time>
+    </a>
+  </div>
+  <div class="comment-order"><a href="javascript:void(0);">1</a></div>
+
+  
+    <div class="comment-content blob">
+      <p></p><p>Les faltó el sensor de espectro de color, el cuál está disponible en varios modelos LG y Sony de alta gama.<br>
+Su función es controlar el balance de blancos de la camara en condiciones de poca luz para mostrar colores más fieles a la realidad.</p><p></p>
+    </div>
+  
+
+  <div class="comment-reply-actions">
+    
+    
+      <a class="btn-comment-reply js-toggle-reply-form" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" title="Responder a este comentario">
+        Responder
+      </a>
+    
+    
+  </div>
+
+  <div class="comment-actions">
+    <a class="btn-comment-menu js-toggle-menu" id="ca1277080" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Menú</a>
+    <ul class="context-menu-list comment-actions-menu js-comment-actions-menu" id="c1277080-comment-actions">
+      
+        
+      
+
+      <li class="comment-actions-abuse " title="Reportar (spam, insultos...)">
+        <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="abuse">Reportar (spam, insultos...)</a>
+      </li>
+      <li class="comment-actions-permanlink">
+        <a class="permanlink" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#c1277080">Copiar enlace a este comentario</a>
+      </li>
+      
+      <li class="comment-actions-vote">
+         <span class="karma">0 votos, karma: <strong>8.00</strong></span>
+        <span class="votes">
+          <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn-comment-vote-up " title="Vota positivo">Vota positivo</a>
+          <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn-comment-vote-down " title="Vota negativo">Vota negativo</a>
+        </span>
+      </li>
+    </ul>
+  </div>
+  <div id="replyFormPlaceHolder"></div>
+  
+</li><a class="comment-thread-close js-toggle-replies-caption" data-id="1277080" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Cerrar respuestas</a><li id="c1278090" class="comment-item comment-reply comment-reply-1">
+  
+    <div class="comment-reply-relation">
+      <img class="user-avatar" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/583538_1.png" alt="Avatar de joseignacio7ss">
+      Respondiendo a
+      <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#c1277080">
+        Jose Ignacio
+      </a>
+    </div>
+  
+
+  
+
+  
+    <div class="comment-author">
+  <a class="comment-author-avatar" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#usuario/romeoaburto" title="Ir a la página de usuario de romeoaburto" rel="nofollow">
+    <img class="user-avatar" src="https://graph.facebook.com/122976565107355/picture" alt="Avatar de romeoaburto">
+    
+  </a>
+  <p class="comment-author-name">
+    <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#usuario/romeoaburto" rel="nofollow">
+      romeoaburto
+    </a>
+  </p>
+  
+    <div class="comment-author-stars">
+      
+        <span>*</span>
+      
+    </div>
+  
+</div>
+  
+
+  <div class="comment-date">
+    <a class="permanlink" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#c1278090" title="Copiar enlace a este comentario">
+      <time class="comment-time" datetime="2018-08-17">17 Ago. 2018, 21:27</time>
+    </a>
+  </div>
+  <div class="comment-order"><a href="javascript:void(0);">2</a></div>
+
+  
+    <div class="comment-content blob">
+      <p></p><p>y el true tone de apple</p><p></p>
+    </div>
+  
+
+  <div class="comment-reply-actions">
+    
+    
+      <a class="btn-comment-reply js-toggle-reply-form" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" title="Responder a este comentario">
+        Responder
+      </a>
+    
+    
+  </div>
+
+  <div class="comment-actions">
+    <a class="btn-comment-menu js-toggle-menu" id="ca1278090" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Menú</a>
+    <ul class="context-menu-list comment-actions-menu js-comment-actions-menu" id="c1278090-comment-actions">
+      
+        
+      
+
+      <li class="comment-actions-abuse " title="Reportar (spam, insultos...)">
+        <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="abuse">Reportar (spam, insultos...)</a>
+      </li>
+      <li class="comment-actions-permanlink">
+        <a class="permanlink" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#c1278090">Copiar enlace a este comentario</a>
+      </li>
+      
+      <li class="comment-actions-vote">
+         <span class="karma">0 votos, karma: <strong>8.00</strong></span>
+        <span class="votes">
+          <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn-comment-vote-up " title="Vota positivo">Vota positivo</a>
+          <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn-comment-vote-down " title="Vota negativo">Vota negativo</a>
+        </span>
+      </li>
+    </ul>
+  </div>
+  <div id="replyFormPlaceHolder"></div>
+  
+</li></ul>
+     <div style="display: none;"></div>
+     <div id="bottom-create-comment-widget" class="article-comments-write article-comments-write-again"><div class="article-comments-write">
+  
+    <a class="btn btn-comment js-toggle show-comment" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#comments-write-form">Escribir comentario</a>
+  
+</div></div>
+     <div id="bottom-comments-write-form" class="comment-write-form" style="display: none;"><div><form action="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" method="post" class="commentform" onsubmit="return false">
+  <div class="comment-write-terms"><a href="https://www.xataka.com/auth/comment-terms" target="_blank">Normas <span>de participación</span></a></div>
+  <div class="comment-write-author">
+    <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#"><img class="user-avatar" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/avatar.png" alt="Usuario"></a>
+    <a class="loginModalBox js-open-login" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#"> Entra para comentar </a>
+  </div>
+  <div class="comment-write-input">
+    <textarea name="text" cols="60" rows="10" class="commentBox" required="true"></textarea>
+  </div>
+  <fieldset class="comment-write-notify">
+  <legend>Recibir por e-mail:</legend>
+  <p><label><input type="radio" name="notify" value="1"> Todos</label></p>
+  <p><label><input type="radio" name="notify" value="2"> Sólo respuestas a los míos</label></p>
+  <p><label><input type="radio" name="notify" checked="checked" value="0"> Nada</label> </p>
+</fieldset>
+  <div class="comment-submit">
+    
+    <button class="btn-primary btn-disabled comment-publish" disabled="disabled">Publicar</button>
+  </div>
+</form></div></div>
+    </div>
+   </div>
+  </div>
+ </div>
+<script>
+  window.AML || (window.AML = {});
+  AML.Comments || (AML.Comments = {});
+  AML.Comments.config || (AML.Comments.config = {});
+  AML.Comments.config.data = {"comments":[{"id":"1277080","post_id":"208902","date":1534256984,"content_filtered":"<p>Les falt\u00f3 el sensor de espectro de color, el cu\u00e1l est\u00e1 disponible en varios modelos LG y Sony de alta gama.<br \/>\nSu funci\u00f3n es controlar el balance de blancos de la camara en condiciones de poca luz para mostrar colores m\u00e1s fieles a la realidad.<\/p>","content":"Les falt\u00f3 el sensor de espectro de color, el cu\u00e1l est\u00e1 disponible en varios modelos LG y Sony de alta gama.\nSu funci\u00f3n es controlar el balance de blancos de la camara en condiciones de poca luz para mostrar colores m\u00e1s fieles a la realidad.","karma":"8.00","parent":"0","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"0","comment_approved":"1","comment_author":"","user_id":"105510","author":"Jose Ignacio","webpage":"","user_name":"joseignacio7ss","karma_level":"25.00","iseditor":"0","global_id":"583538","facebook_uid":null,"user_status":"active","index":1,"avatar_type":"wsl","avatar_link":"\/\/img.weblogssl.com\/avatar\/mini\/583538_1.png","abuse_users":[]},{"id":"1278090","post_id":"208902","date":1534559235,"content_filtered":"<p>y el true tone de apple<\/p>","content":"y el true tone de apple","karma":"8.00","parent":"1277080","comment_edited_date":"","vote_count":"0","comment_level":3,"comment_deleted_date":"","tree_level":"1","comment_approved":"1","comment_author":"","user_id":"210657","author":"","webpage":"","user_name":"romeoaburto","karma_level":"12.00","iseditor":"0","global_id":"1193413","facebook_uid":"122976565107355","user_status":"active","index":2,"avatar_type":"facebook","avatar_link":"\/\/graph.facebook.com\/122976565107355\/picture","abuse_users":[]}],"meta":{"more_records":"false","start":0,"total":2,"order":"valued","totalCount":2,"commentStatus":"open"}};
+  AML.Comments.config.postId = 208902;
+  AML.Comments.config.enableSocialShare = "0";
+  AML.Comments.config.status = "open";
+  AML.Comments.config.campaignDate = "09_Sep_2019";
+  AML.Comments.config.enableImageUploading = "0";
+</script>
+
+ </div>
+</div>
+                               <div class="ad ad-cen2">
+ <div class="ad-box" id="div-gpt-cen2">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-cen2"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-CEN2-interior_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+</div>
+                               <section id="editorialRecommendedPosts" class="section-related">
+  
+  
+   <div class="post-related-posts articles-full-width">
+    <p class="post-related-vidaextra-title">Recomendado en Vida Extra</p>
+    <div class="post-related-content">
+     <ul>
+      
+       
+       <li class="horizontal-related-posts">
+        <a href="https://www.vidaextra.com/deportes/esta-lista-100-mejores-jugadores-futbol-fifa-20-messi-alto?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section">
+         
+          <div class="recommendation-figure">
+           <picture>
+            
+            
+            
+            <source media="(min-width: 1023px)" srcset="https://i.blogs.es/8dfb96/fifa-20/500_333.jpeg">
+            <source media="(min-width: 767px)" srcset="https://i.blogs.es/8dfb96/fifa-20/200_133.jpeg">
+            <source srcset="https://i.blogs.es/8dfb96/fifa-20/150_150.jpeg">
+            <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/150_150.jpeg" alt="Esta es la lista de los 100 mejores jugadores de fútbol de FIFA 20, con Messi en lo más alto" srcset="https://i.blogs.es/8dfb96/fifa-20/150_150.jpeg, https://i.blogs.es/8dfb96/fifa-20/200_133.jpeg 767w, https://i.blogs.es/8dfb96/fifa-20/500_333.jpeg 1023w" sizes="(min-width: 768px) 50vw, 100vw">
+           </picture>
+          </div>
+         
+        </a>
+        <a href="https://www.vidaextra.com/deportes/esta-lista-100-mejores-jugadores-futbol-fifa-20-messi-alto?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section"><span>Esta es la lista de los 100 mejores jugadores de fútbol de FIFA 20, con Messi en lo más alto</span></a>
+       </li>
+      
+       
+       <li class="horizontal-related-posts">
+        <a href="https://www.vidaextra.com/ps4/mini-metro-saldra-manana-ps4-podamos-disenar-nuestras-lineas-transportes-sofa?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section">
+         
+          <div class="recommendation-figure">
+           <picture>
+            
+            
+            
+            <source media="(min-width: 1023px)" srcset="https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/500_333.jpeg">
+            <source media="(min-width: 767px)" srcset="https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/200_133.jpeg">
+            <source srcset="https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/150_150.jpeg">
+            <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/150_150(1).jpeg" alt="Mini Metro saldrá mañana en PS4 para que podamos diseñar nuestras líneas de transportes desde el sofá" srcset="https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/150_150.jpeg, https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/200_133.jpeg 767w, https://i.blogs.es/90c688/ss_c6337c67fbfa98abee6135819754321d4b4b5a84.1920x1080/500_333.jpeg 1023w" sizes="(min-width: 768px) 50vw, 100vw">
+           </picture>
+          </div>
+         
+        </a>
+        <a href="https://www.vidaextra.com/ps4/mini-metro-saldra-manana-ps4-podamos-disenar-nuestras-lineas-transportes-sofa?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section"><span>Mini Metro saldrá mañana en PS4 para que podamos diseñar nuestras líneas de transportes desde el sofá</span></a>
+       </li>
+      
+       
+       <li class="horizontal-related-posts">
+        <a href="https://www.vidaextra.com/rpg/kingdom-hearts-iii-nos-deja-fascinante-adelanto-re-mind-nuevo-dlc-que-recibira-invierno?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section">
+         
+          <div class="recommendation-figure">
+           <picture>
+            
+            
+            
+            <source media="(min-width: 1023px)" srcset="https://i.blogs.es/611b03/kingdom-hearts-iii/500_333.jpeg">
+            <source media="(min-width: 767px)" srcset="https://i.blogs.es/611b03/kingdom-hearts-iii/200_133.jpeg">
+            <source srcset="https://i.blogs.es/611b03/kingdom-hearts-iii/150_150.jpeg">
+            <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/150_150(2).jpeg" alt="Kingdom Hearts III nos deja con un fascinante adelanto de Re:Mind, el nuevo DLC que recibirá en invierno" srcset="https://i.blogs.es/611b03/kingdom-hearts-iii/150_150.jpeg, https://i.blogs.es/611b03/kingdom-hearts-iii/200_133.jpeg 767w, https://i.blogs.es/611b03/kingdom-hearts-iii/500_333.jpeg 1023w" sizes="(min-width: 768px) 50vw, 100vw">
+           </picture>
+          </div>
+         
+        </a>
+        <a href="https://www.vidaextra.com/rpg/kingdom-hearts-iii-nos-deja-fascinante-adelanto-re-mind-nuevo-dlc-que-recibira-invierno?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section"><span>Kingdom Hearts III nos deja con un fascinante adelanto de Re:Mind, el nuevo DLC que recibirá en invierno</span></a>
+       </li>
+      
+       
+       <li class="horizontal-related-posts">
+        <a href="https://www.vidaextra.com/accion/projet-resistance-nuevo-resident-evil-que-esta-desarrollando-capcom-anunciado-grandioso-trailer-cinematico?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section">
+         
+          <div class="recommendation-figure">
+           <picture>
+            
+            
+            
+            <source media="(min-width: 1023px)" srcset="https://i.blogs.es/1c4e48/project-resistance/500_333.jpeg">
+            <source media="(min-width: 767px)" srcset="https://i.blogs.es/1c4e48/project-resistance/200_133.jpeg">
+            <source srcset="https://i.blogs.es/1c4e48/project-resistance/150_150.jpeg">
+            <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/150_150(3).jpeg" alt="Project Resistance, el nuevo Resident Evil multijugador que está desarrollando Capcom, es anunciado con un grandioso tráiler cinemático" srcset="https://i.blogs.es/1c4e48/project-resistance/150_150.jpeg, https://i.blogs.es/1c4e48/project-resistance/200_133.jpeg 767w, https://i.blogs.es/1c4e48/project-resistance/500_333.jpeg 1023w" sizes="(min-width: 768px) 50vw, 100vw">
+           </picture>
+          </div>
+         
+        </a>
+        <a href="https://www.vidaextra.com/accion/projet-resistance-nuevo-resident-evil-que-esta-desarrollando-capcom-anunciado-grandioso-trailer-cinematico?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=editorial_recommendation_section"><span>Project Resistance, el nuevo Resident Evil multijugador que está desarrollando Capcom, es anunciado con un grandioso tráiler cinemático</span></a>
+       </li>
+      
+     </ul>
+    </div>
+   </div>
+  <img src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/abtest.png" style="display: none;"></section>
+                                         <div class="ad ad-bot">
+ <div class="ad-box" id="div-gpt-bot2">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="ad-contact">Publicidad</a>
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-bot2"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-BOT2-interior_0__container__" style="border: 0pt none; width: 300px; height: 250px;"></div></div>
+</div>
+                                <div class="section-deeplinking-container">
+  <div class="section-deeplinking">
+   <span class="section-deeplinking-header">Temas de interés</span>
+   <ul class="section-deeplinking-list" id="js-evergreen-nav-links">
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/que-5g-que-diferencias-tiene-4g" class="section-deeplinking-anchor">
+       5G
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/moviles/mejores-moviles-2019" class="section-deeplinking-anchor">
+       mejores móviles
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/analisis/una-semana-en-la-deep-web-esto-es-lo-que-me-he-encontrado" class="section-deeplinking-anchor">
+       deep web
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/analisis/mejor-movil-xiaomi-en-relacion-calidad-precio" class="section-deeplinking-anchor">
+       móviles Xiaomi
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/mejores-dns-2019" class="section-deeplinking-anchor">
+       mejores DNS
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/otros-dispositivos/amazon-fire-tv-stick-opiniones-analisis-6-meses-uso" class="section-deeplinking-anchor">
+       Fire Stick TV
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/como-actualizar-whatsapp-automaticamente-a-la-ultima-version-en-android" class="section-deeplinking-anchor">
+       Actualizar Whatsapp
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/como-actualizar-gratis-a-windows-10-con-licencia-de-windows-7-u-8-1-o-sin-ella" class="section-deeplinking-anchor">
+       Actualizar Windows 10
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/como-borrar-o-eliminar-una-cuenta-de-instagram-para-siempre" class="section-deeplinking-anchor">
+       Eliminar Instagram
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/127-plantillas-excel-para-organizarlo-todo" class="section-deeplinking-anchor">
+       Plantillas Excel
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/basics/plantillas-microsoft-powerpoint-para-organizarlo-todo" class="section-deeplinking-anchor">
+       Plantillas PowerPoint
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/analisis/mejor-robot-aspirador-300-euros-2019-guia-compra-comparativa" class="section-deeplinking-anchor">
+       Mejor robot aspirador
+      </a>
+     </li>
+         <li class="section-deeplinking-item">
+      <a href="https://www.xataka.com/analisis/mejor-disco-duro-externo-2-5-guia-compra-comparativa" class="section-deeplinking-anchor">
+       mejor disco duro externo
+      </a>
+     </li>
+       </ul>
+   
+  </div>
+ </div>
+      </main>
+       <section id="sections" class="head-menu-container head-menu-sections">
+ <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#sections" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#sections" class="close close-corner js-toggle js-menu-close">Inicio</a>
+     <div id="opt-in"><div class="section-user-login">
+  <div class="section-avatar">
+  </div>
+  <div class="login-options">
+    <p class="login-option-links"><a id="openLoginHighlighted" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login" class="js-opt-in js-login-link user-option-link">Entra</a> o <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-register" class="js-opt-in user-option-link">Regístrate</a></p>
+    <p class="hint">para participar en la comunidad de Xataka</p>
+  </div>
+</div></div>
+         <div class="head-menu-extras">
+    <p class="nav-heading">Destacamos</p>
+    <ul>
+                     <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="https://premios.xataka.com/">
+      Premios Xataka
+      </a></li>
+                          <li><a class="head-list-item head-brand-link head-brand-tecnologiazen js-track-header-event" href="https://www.xataka.com/black-friday">
+      Black Friday
+      </a></li>
+         </ul>
+   </div>
+       <div id="sections-search">     <div class="head-menu-search">      <div class="head-search-form js-search-form">       <input id="search-field-1" type="text" placeholder="Buscar en Xataka" class="search-container-1" data-container="#search-container-1">       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>      </div>     </div></div>
+   <script>
+    document.getElementById("sections-search").innerHTML = '\
+     <div class="head-menu-search">\
+      <div class="head-search-form js-search-form">\
+       <input id="search-field-1" type="text" placeholder="Buscar en Xataka" class="search-container-1" data-container="#search-container-1">\
+       <button class="head-search-button js-search-button" data-field="#search-field-1">Buscar</button>\
+      </div>\
+     </div>';
+   </script>
+    <div id="search-container-1" class="js-search-results"></div>
+       <div id="sections-login-wrapper" class="sections-login">
+    <div id="js-login" class="user-card"></div>
+   </div>
+    <nav class="head-menu-categories">
+    <ul>
+           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/componentes">Componentes</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/ordenadores">Ordenadores</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/videojuegos">Videojuegos</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/analisis">Análisis</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/medicina-y-salud">Medicina y Salud</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/categoria/moviles">Móviles</a></li>                <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/apple">Apple</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/netflix">Netflix</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/xiaomi">Xiaomi</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/windows-10">Windows 10</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/despeja-la-x">Despeja la X</a></li>           <li><a class="head-list-item js-track-header-event" href="https://www.xataka.com/tag/captcha-ia">Captcha IA</a></li>         </ul>
+    <p class="head-more-item">
+     <a href="https://www.xataka.com/archivos" class="btn js-track-header-event">Ver más temas</a>
+    </p>
+  </nav>
+  <aside class="head-menu-follow">
+   <span class="head-item-meta">Síguenos</span>
+   <ul>
+    <li><a href="http://twitter.com/xataka" class="icon-twitter link-twitter js-track-header-event" rel="nofollow">Twitter</a></li>
+    <li><a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook js-track-header-event" rel="nofollow">Facebook</a></li>
+         <li><a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube js-track-header-event" rel="nofollow">Youtube</a></li>
+                 <li><a href="https://instagram.com/xataka" class="icon-instagram link-instagram" rel="nofollow">Instagram</a></li>
+             <li><a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a></li>
+             <li><a href="https://www.xataka.com/index.xml" class="icon-rss link-rss" rel="nofollow">RSS</a></li>
+                    <li id="sections-newsletter">
+     <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-menu-newsletter" class="icon-email link-email js-toggle-subscribe">E-mail</a>
+    </li>
+       </ul>
+  </aside>
+  <section id="head-menu-newsletter" class="head-menu-newsletter">
+   <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-menu-newsletter" class="close close-corner js-toggle-subscribe"></a>
+   <form class="newsletter-form head-newsletter-form js-subscription" method="post" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka" data-id="#head-menu-newsletter">
+    <h3 class="newsletter-heading">Recibe un email al día con los artículos de Xataka: </h3>
+    <p><input class="newsletter-input js-email" type="email" placeholder="Tu correo electrónico">
+    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>
+   </form>
+  </section>
+  <nav class="head-menu-extras">
+   <ul class="head-list">
+         <li><a class="head-list-item section-respuestas js-track-header-event" href="https://www.xataka.com/respuestas">Xataka Respuestas</a></li>             <li><a class="head-list-item section-tv js-track-header-event" href="https://www.youtube.com/user/xatakatv?sub_confirmation=1">Xataka
+      <span>TV</span>
+    </a></li>
+        <li><a class="head-list-item section-lomejor js-track-header-event" href="https://www.xataka.com/lomejor">Lo mejor</a></li>
+    <li><a class="head-list-item section-staff js-track-header-event" href="https://www.xataka.com/quienes-somos">Equipo editorial</a></li>
+    <li><a class="head-list-item section-contact js-track-header-event" href="https://www.xataka.com/contacto">Contacta con nosotros</a></li>
+    <li id="sections-login">
+     <span id="login"><li>
+  <a class="head-list-item section-login js-login-link" id="openLogin" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login">
+    Entra o Regístrate
+  </a>
+</li></span>
+    </li>
+   </ul>
+  </nav>
+     <aside class="head-menu-external">
+    <p class="nav-heading">Más sitios que te gustarán</p>
+    <ul>
+                       <li><a class="head-list-item js-track-header-event" href="https://www.vidaextra.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Vidaextra</a></li>                       <li><a class="head-list-item js-track-header-event" href="https://www.xatakandroid.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Android</a></li>                       <li><a class="head-list-item js-track-header-event" href="https://www.xatakamovil.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Móvil</a></li>                       <li><a class="head-list-item js-track-header-event" href="https://www.motorpasion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión</a></li>                       <li><a class="head-list-item js-track-header-event" href="https://www.applesfera.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li>                       <li><a class="head-list-item js-track-header-event" href="https://www.genbeta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Genbeta</a></li>         </ul>
+   </aside>
+    <div class="head-menu-channels">
+   <h3>Explora en nuestros medios</h3>
+   <ul>
+         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-tecnologia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Tecnología
+        <span class="head-item-meta m-desc">Móviles, tablets, aplicaciones, videojuegos, fotografía, domótica...</span></a><ul id="head-channel-tecnologia" class="head-channel-list"><li><a class="head-list-item tec-xataka js-track-header-event" rel="nofollow" href="https://www.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka</a></li><li><a class="head-list-item tec-xatakamovil js-track-header-event" href="https://www.xatakamovil.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Móvil</a></li><li><a class="head-list-item tec-xatakafoto js-track-header-event" href="https://www.xatakafoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Foto</a></li><li><a class="head-list-item tec-xatakandroid js-track-header-event" href="https://www.xatakandroid.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Android</a></li><li><a class="head-list-item tec-xatakahome js-track-header-event" href="https://www.xatakahome.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Smart Home</a></li><li><a class="head-list-item tec-xatakawindows js-track-header-event" href="https://www.xatakawindows.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Windows</a></li><li><a class="head-list-item tec-xatakaciencia js-track-header-event" href="https://www.xatakaciencia.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Ciencia</a></li><li><a class="head-list-item tec-applesfera js-track-header-event" href="https://www.applesfera.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li><li><a class="head-list-item tec-genbeta js-track-header-event" href="https://www.genbeta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Genbeta</a></li><li><a class="head-list-item tec-magnet js-track-header-event" href="https://magnet.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Magnet</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-videojuegos" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Videojuegos
+        <span class="head-item-meta m-desc">Consolas, juegos, PC, PS4, Switch, Nintendo 3DS y Xbox...</span></a><ul id="head-channel-videojuegos" class="head-channel-list"><li><a class="head-list-item tech-3djuegos js-track-header-event" href="https://www.3djuegos.com/#utm_source=3djuegos&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos</a></li><li><a class="head-list-item tec-vidaextra js-track-header-event" href="https://www.vidaextra.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Vida Extra</a></li><li><a class="head-list-item tech-ign js-track-header-event" href="https://es.ign.com/#utm_source=ign&amp;utm_medium=network&amp;utm_campaign=footer">IGN</a></li><li><a class="head-list-item tec-xatakaesports js-track-header-event" href="https://esports.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka eSports</a></li><li><a class="head-list-item tech-3djuegos js-track-header-event" href="https://trasgo.net/?utm_source=trasgo&amp;utm_medium=network&amp;utm_campaign=footer">Trasgo</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-entretenimiento" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Entretenimiento
+        <span class="head-item-meta m-desc">Series, cine, estrenos en cartelera, premios, rodajes, nuevas películas, televisión...</span></a><ul id="head-channel-entretenimiento" class="head-channel-list"><li><a class="head-list-item oci-sensacine js-track-header-event" href="http://www.sensacine.com/#utm_source=sensacine&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine</a></li><li><a class="head-list-item oci-espinof js-track-header-event" href="https://www.espinof.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Espinof</a></li><li><a class="head-list-item oci-thewatmag js-track-header-event" href="https://www.thewatmag.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">WATmag</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-gastronomia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Gastronomía
+        <span class="head-item-meta m-desc">Recetas, recetas de cocina fácil, pinchos, tapas, postres...</span></a><ul id="head-channel-gastronomia" class="head-channel-list"><li><a class="head-list-item est-directoalpaladar js-track-header-event" href="https://www.directoalpaladar.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-Estilodevida" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Estilo de vida
+        <span class="head-item-meta m-desc">Moda, belleza, estilo, salud, fitness, familia, gastronomía, decoración, famosos...</span></a><ul id="head-channel-Estilodevida" class="head-channel-list"><li><a class="head-list-item est-vitonica js-track-header-event" rel="nofollow" href="https://www.vitonica.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Vitónica</a></li><li><a class="head-list-item est-trendencias js-track-header-event" href="https://www.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias</a></li><li><a class="head-list-item est-trendenciashombre js-track-header-event" href="https://www.trendenciashombre.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias Hombre</a></li><li><a class="head-list-item est-decoesfera js-track-header-event" rel="nofollow" href="https://decoracion.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Decoesfera</a></li><li><a class="head-list-item tec-compradiccion js-track-header-event" href="https://www.compradiccion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Compradiccion</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-motor" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Motor
+        <span class="head-item-meta m-desc">Coches, competición, motos, vehículos eléctricos, híbridos...</span></a><ul id="head-channel-motor" class="head-channel-list"><li><a class="head-list-item mot-motorpasion js-track-header-event" href="https://www.motorpasion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión</a></li><li><a class="head-list-item mot-motorpasionmoto js-track-header-event" href="https://www.motorpasionmoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión Moto</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-economia" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Economía
+        <span class="head-item-meta m-desc">Finanzas, mundo de la empresa, autónomos, fiscalidad, administración, recursos humanos...</span></a><ul id="head-channel-economia" class="head-channel-list"><li><a class="head-list-item eco-elblogsalmon js-track-header-event" href="https://www.elblogsalmon.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">El Blog Salmón</a></li><li><a class="head-list-item eco-pymesyautonomos js-track-header-event" href="https://www.pymesyautonomos.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Pymes y Autónomos</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-ocio" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Familia y Ocio
+        <span class="head-item-meta m-desc">Televisión, series, cine, estrenos, viajes, literatura...</span></a><ul id="head-channel-ocio" class="head-channel-list"><li><a class="head-list-item est-bebesymas js-track-header-event" href="https://www.bebesymas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Bebés y Más</a></li><li><a class="head-list-item oci-diariodelviajero js-track-header-event" href="https://www.diariodelviajero.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Diario del Viajero</a></li></ul></li>         <li><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#head-channel-mediosparaclientes" class="head-list-item head-channel-caption explore-weblogs-sl-toggle">
+        Participamos en
+        <span class="head-item-meta m-desc">Publicaciones para otras marcas y partners...</span></a><ul id="head-channel-mediosparaclientes" class="head-channel-list"><li><a class="head-list-item  js-track-header-event" href="http://www.nobbot.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Nobbot</a></li><li><a class="head-list-item  js-track-header-event" href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Tecnología de tú a tú</a></li><li><a class="head-list-item  js-track-header-event" href="http://www.bloglenovo.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Blog Lenovo</a></li><li><a class="head-list-item  js-track-header-event" rel="nofollow" href="https://www.inget.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Inget by acer</a></li><li><a class="head-list-item  js-track-header-event" href="http://blog.orange.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">By Orange - Blog de Orange</a></li><li><a class="head-list-item  js-track-header-event" href="https://eligebientubarrio.ing.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Elige Bien tu barrio</a></li><li><a class="head-list-item  js-track-header-event" href="https://bloygo.yoigo.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Bloygo</a></li><li><a class="head-list-item  js-track-header-event" href="https://poptv.orange.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Pop TV</a></li><li><a class="head-list-item  js-track-header-event" rel="nofollow" href="http://www.cocacolaespana.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Coca-Cola Journey España</a></li><li><a class="head-list-item  js-track-header-event" rel="nofollow" href="http://www.cocacolaportugal.pt/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Coca-Cola Journey Portugal</a></li><li><a class="head-list-item  js-track-header-event" href="http://zona.cocacola.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Zona Coca-Cola</a></li><li><a class="head-list-item  js-track-header-event" href="https://www.cervezasalhambra.es/momentos-alhambra/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Momentos Alhambra</a></li><li><a class="head-list-item  js-track-header-event" href="http://www.rentabilibar.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Mahou Rentabilibar</a></li><li><a class="head-list-item  js-track-header-event" href="http://www.circulaseguro.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Circula Seguro</a></li><li><a class="head-list-item  js-track-header-event" href="http://www.circulaseguro.pt/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Circula Seguro PT</a></li><li><a class="head-list-item  js-track-header-event" href="https://www.tuenergiacuenta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Tu Energía Cuenta</a></li><li><a class="head-list-item  js-track-header-event" href="https://hablemosdeempresas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Hablemos de empresas</a></li><li><a class="head-list-item  js-track-header-event" href="https://www.ennaranja.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">En Naranja</a></li><li><a class="head-list-item  js-track-header-event" href="http://blog.sage.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Sage Experience</a></li><li><a class="head-list-item  js-track-header-event" href="https://www.huellasbysareb.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Huellas by Sareb</a></li><li><a class="head-list-item  js-track-header-event" href="https://www.smartcitylab.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Smart.City_Lab</a></li></ul></li>       </ul>
+  </div>
+  <nav class="head-menu-links">
+   <ul class="head-list">
+    <li><a class="head-list-item js-track-header-event" href="http://www.weblogssl.com/aviso">Aviso legal</a></li>
+    <li><a class="head-list-item js-track-header-event" href="http://www.weblogssl.com/contenidos">Condiciones de uso</a></li>
+    <li><a class="head-list-item js-track-header-event" href="https://www.weblogssl.com/cookies">Condiciones de uso de cookies</a></li>
+    <li><a class="head-list-item js-track-header-event" href="http://www.socialmediasl.com/servicios/acciones-en-nuestros-medios">Publicidad</a></li>
+   </ul>
+  </nav>
+ </div>
+</section>
+<section id="headlines" class="head-menu-container head-menu-new m-menu-right">
+ <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#headlines" class="head-menu-toggler js-toggle"></a>
+ <div class="head-menu">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#headlines" class="close close-corner js-toggle">Inicio</a>
+    <p class="nav-heading">Reciente</p>
+  <ul id="recent-posts">
+    <li><a href="https://www.xataka.com/accesorios/este-ingenioso-cable-usb-c-anker-promete-poder-cargar-portatiles-viejos-maquinillas-afeitar" class="head-new-item">
+ Este ingenioso cable USB-C de Anker promete poder cargar desde portátiles viejos hasta maquinillas de afeitar
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T18:00:25+00:00">hace 12 minutos</time></span></a></li> <li><a href="https://www.xataka.com/cine-y-tv/it-capitulo-2-despedida-pennywise-irregular-garantiza-buena-racion-espantos-estilo-king" class="head-new-item">
+ 'It: Capítulo 2': la despedida de Pennywise es irregular, pero garantiza una buena ración de espantos estilo King
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T17:00:25+00:00">hace una hora</time></span></a></li> <li><a href="https://www.xataka.com/medicina-y-salud/como-congelar-higado-causar-danos-esta-nueva-tecnica-ha-conseguido-duplicar-vida-util-organos-trasplante" class="head-new-item">
+ Poner un hígado a cuatro grados bajo cero sin que se congele es un paso clave para el futuro de los trasplantes y lo hemos dado
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T16:30:26+00:00">hace 2 horas</time></span></a></li> <li><a href="https://www.xataka.com/espacio/luna-sigue-siendo-amante-cruel-que-dificil-alunizar-alla-arriba-sesenta-anos-despues-hacerlo-primera-vez" class="head-new-item">
+ Queremos ir a la Luna, pero no dejamos de estrellarnos con ella: por qué es tan difícil alunizar 60 años después de la primera vez
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T16:00:29+00:00">hace 2 horas</time></span></a></li> <li><a href="https://www.xataka.com/analisis/panasonic-gz2000-analisis-caracteristicas-precio-especificaciones" class="head-new-item">
+ Panasonic GZ2000, análisis: un OLED de alta gama decidido a batir a sus rivales con su espectacular imagen y soberbio sonido Atmos
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T15:00:31+00:00">hace 3 horas</time></span></a></li> <li><a href="https://www.xataka.com/servicios/que-hace-un-tipo-de-sistemas-cuando-se-le-cae-todo-el-sistema" class="head-new-item m-republish"><span class="head-new-video-desc">Qué hace un tipo de sistemas cuando se le cae todo el sistema</span><span class="head-item-meta">
+             Por si te lo perdiste
+           </span></a></li> <li><a href="https://www.xataka.com/analisis/samsung-galaxy-a90-5g-opiniones-toma-contacto-video-fotos" class="head-new-item">
+ Samsung Galaxy A90 5G, primeras impresiones: el mejor (y más caro) de los Galaxy A llega con 5G
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T14:00:26+00:00">hace 4 horas</time></span></a></li> <li><a href="https://www.xataka.com/servicios/hay-boom-aplicaciones-que-prometen-ayudarnos-a-mantener-vivas-nuestras-plantas-biologa-nos-dice-no-fiar" class="head-new-item">
+ Hay un boom de aplicaciones que prometen ayudarnos a mantener vivas nuestras plantas y una bióloga nos dice si son o no de fiar
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T13:00:27+00:00">hace 5 horas</time></span></a></li> <li><a href="https://www.xataka.com/investigacion/vehiculos-pesados-autonomos-para-ejercito-asi-quiere-evitar-ee-uu-muertes-soldados-zonas-conflicto" class="head-new-item">
+ Vehículos militares autónomos: así quiere evitar EE.UU nuevas muertes de soldados en zonas de conflicto
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T12:16:20+00:00">hace 6 horas</time></span></a></li> <li><a href="https://www.xataka.com/moviles/librem-5-llega-al-mercado-asi-movil-open-source-que-no-para-todos-que-apuesta-libertad-privacidad" class="head-new-item">
+ Librem 5 llega al mercado: así es el móvil Open Source que apuesta por la libertad y la privacidad
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T11:40:20+00:00">hace 7 horas</time></span></a></li> <li><a href="https://www.xataka.com/moviles/carga-inalambrica-a-unos-impresionantes-30-w-nuevo-xiaomi-su-tecnologia-mi-charge-turbo" class="head-new-item">
+ Carga inalámbrica a unos impresionantes 30 W es lo nuevo de Xiaomi con su tecnología Mi Charge Turbo [Actualizada]
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T11:17:25+00:00">hace 7 horas</time></span></a></li> <li><a href="https://www.xataka.com/analisis/kobo-libra-h2o-analisis-caracteristicas-precio-especificaciones" class="head-new-item">
+ Kobo Libra H2O, análisis: el lector de libros electrónicos que quiere popularizar la asimetría
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T10:00:24+00:00">hace 8 horas</time></span></a></li> <li><a href="https://www.vidaextra.com/ps4/lisa-fantasma-p-t-ha-estado-siempre-flotando-detras-jugador?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+ Lisa, el fantasma de P.T., ha estado siempre flotando detrás del jugador 
+ <span class="head-item-meta">
+  en Vidaextra <time class="js-header-post" datetime="2019-09-09T10:40:21+00:00">hace 8 horas</time></span></a></li> <li><a href="https://www.xataka.com/eventos/apple-keynote-septiembre-2019-todo-que-esperamos-ver-uno-eventos-ano-marca" class="head-new-item">
+ Apple Keynote septiembre 2019: todo lo que esperamos ver en uno de los eventos del año de la marca
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T09:12:53+00:00">hace 9 horas</time></span></a></li> <li><a href="https://www.xataka.com/televisores/honor-vision-pro-opiniones-video-fotos" class="head-new-item">
+ Honor Vision Pro, primeras impresiones: Harmony OS no es solo un sustituto de Android, también está preparado para innovar en televisores
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-09T07:00:27+00:00">hace 11 horas</time></span></a></li> <li><a href="https://www.genbeta.com/herramientas/microsoft-compro-wunderlist-hace-cuatro-anos-ahora-su-creador-quiere-recomprarla-para-evitar-que-desaparezca?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
+ Microsoft compró Wunderlist hace cuatro años, y ahora su creador quiere recomprarla para evitar que desaparezca 
+ <span class="head-item-meta">
+  en Genbeta <time class="js-header-post" datetime="2019-09-09T09:00:37+00:00">hace 9 horas</time></span></a></li> <li><a href="https://www.xataka.com/investigacion/enigma-litio-anos-precios-al-alza-bajada-estos-meses-grandes-incognitas-coche-electrico" class="head-new-item">
+ El enigma del litio: tras años de precios al alza, la bajada de estos meses es una de las grandes incógnitas del coche eléctrico
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-08T17:31:55+00:00">hace un día</time></span></a></li> <li><a href="https://www.xataka.com/servicios/no-supieras-cuantos-likes-ha-tenido-este-articulo-desmetrizacion-redes-sociales" class="head-new-item">
+ ¿Y si no supieras cuántos likes ha tenido este artículo? La "desmetrización" de las redes sociales
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-08T16:01:53+00:00">hace un día</time></span></a></li> <li><a href="https://www.xataka.com/historia-tecnologica/fondos-pantalla-tiempos-3310-logos-que-podias-instalar-tu-movil-pagando-2-3-euros" class="head-new-item">
+ Fondos de pantalla en tiempos del 3310, los logos que podías instalar en tu móvil pagando 2 o 3 euros
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-08T14:31:52+00:00">hace un día</time></span></a></li> <li><a href="https://www.xataka.com/seleccion/12-moviles-gama-alta-ano-pasado-que-se-han-quedado-a-gran-precio-este-ano" class="head-new-item">
+ 12 móviles de gama alta del año pasado que se han quedado a un gran precio este año
+ <span class="head-item-meta"><time class="js-header-post" datetime="2019-09-08T13:01:51+00:00">hace un día</time></span></a></li>  </ul>
+  <p class="head-more-item"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn" id="view-more" data-blog="xataka">Ver más artículos</a></p>
+     <div class="head-menu-video">
+    <p class="nav-heading"> Xataka 
+     <span>TV</span>
+    </p>
+    <ul id="recent-videos">
+          <li><a href="http://xataka.com/" class="head-new-item"><span class="head-new-video-thumb"><img alt="NUEVO GALAXY FOLD: lo probamos en el IFA 2019" src="https://img.youtube.com/vi/QWSn1SFy_mk/mqdefault.jpg"></span><span class="head-new-video-desc">NUEVO GALAXY FOLD: lo probamos en el IFA 2019</span></a></li> 
+     <li><a href="https://www.xataka.com/" class="head-new-item"><span class="head-new-video-thumb"><img alt="Nuevo KIRIN 990 con 7nm y 5G, ANDROID 10 en HUAWEI, Freebuds 3 y más | Huawei en el IFA 2019" src="https://img.youtube.com/vi/ENFf19DNEto/mqdefault.jpg"></span><span class="head-new-video-desc">Nuevo KIRIN 990 con 7nm y 5G, ANDROID 10 en HUAWEI, Freebuds 3 y más | Huawei en el IFA 2019</span></a></li> 
+     <li><a href="https://www.xataka.com/moviles/moto-one-zoom-caracteristicas-precio-ficha-tecnica" class="head-new-item"><span class="head-new-video-thumb"><img alt="Moto One Zoom, primeras impresiones: Así es el primer móvil de Motorola con cuatro cámaras traseras" src="https://img.youtube.com/vi/tEQiC9Mkvkk/mqdefault.jpg"></span><span class="head-new-video-desc">Moto One Zoom, primeras impresiones: Así es el primer móvil de Motorola con cuatro cámaras traseras</span></a></li> 
+    </ul>
+    <p class="head-more-item"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="btn" id="view-more-videos" data-blog="xataka">Ver más vídeos</a></p>
+   </div>
+   </div>
+</section>
+<nav id="search" class="head-menu-container head-menu-searchapp"> <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#search" class="head-menu-toggler js-toggle"></a> <div class="head-menu">  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#search" class="close close-corner js-toggle">Inicio</a>  <h2>Buscar</h2>  <div class="head-menu-search">   <div class="head-search-form js-search-form">    <input id="search-field-2" type="text" placeholder="Buscar en Xataka" class="search-container-2" data-container="#search-container-2">    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>   </div>  </div>  <section id="search-container-2" class="js-search-results"></section> </div></nav>
+<script>
+ document.getElementById("search").innerHTML = '\
+ <a href="#search" class="head-menu-toggler js-toggle"></a>\
+ <div class="head-menu">\
+  <a href="#search" class="close close-corner js-toggle">Inicio</a>\
+  <h2>Buscar</h2>\
+  <div class="head-menu-search">\
+   <div class="head-search-form js-search-form">\
+    <input id="search-field-2" type="text" placeholder="Buscar en Xataka" class="search-container-2" data-container="#search-container-2">\
+    <button class="head-search-button js-search-button" data-field="#search-field-2">Buscar</button>\
+   </div>\
+  </div>\
+  <section id="search-container-2" class="js-search-results"></section>\
+ </div>';
+</script><nav class="nav nav-list nav-register" id="nav-twitter-register"></nav>
+<div id="react-login"></div>
+<nav class="nav nav-list nav-login" id="nav-login"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login" class="head-menu-toggler js-close-login"></a>
+<div class="head-menu">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login" class="close close-corner js-close-login"></a>
+  <form id="wsl_login_form" class="login-form" onsubmit="return false">
+    <p class="help-msg">Entra o <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-register" class="js-open-register">regístrate</a> para poder guardar artículos, comentar o votar en la comunidad.</p>
+    <p id="wsl_invalid_login" class="wsl_error hide">Tu correo electrónico o tu contraseña no son correctos.</p>
+    <p id="wsl_invalid_user_deactivated" class="wsl_error hide">Esta dirección de correo ya estuvo registrada y fue dada de baja.<br><br>Por favor, usa una dirección de correo diferente.</p>
+    <p>
+      <label for="wsl_ud_email">Correo electrónico:<input type="text" class="text" name="ud_username" id="wsl_ud_email" value="" tabindex="1" size="15"></label>
+      <label for="wsl_ud_pass">Contraseña: <input type="password" class="text" name="ud_pass" id="wsl_ud_pass" value="" tabindex="2" size="15"></label>
+    </p>
+    
+      <button type="submit" id="wsl_login_button" class="btn btn-primary">Entrar</button>
+      <span class="help-msg form-submit-alt">
+        <a class="js-open-recover" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-recover">Recuperar contraseña</a>
+      </span>
+    
+  </form>
+  <div class="login-3rd-part">
+    <p>
+      <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="facebook-login" id="facebook_login">Entra con Facebook</a>
+      
+        <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="twitter-login" id="twitter_login">Entra con Twitter</a>
+      
+    </p>
+  </div>
+  <p id="dont_have_account_text"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-register" id="open_register" class="js-open-register">Regístrate en Xataka</a></p>
+</div></nav>
+<nav class="nav nav-list nav-register" id="nav-register"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-register" class="head-menu-toggler js-close-register"></a>
+<div class="head-menu">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-register" class="close close-corner js-close-register"></a>
+  <form id="fos_user_registration_form" class="register-form" action="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" onsubmit="return false">
+    <p class="help-msg"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login" class="js-open-login">Entra</a> o regístrate para poder guardar artículos, comentar o votar en la comunidad.</p>
+    <p class="wsl_error" id="wsl_register_invalid" style="display: none;">El correo electrónico no tiene el formato válido.</p>
+    <p class="wsl_error" id="wsl_email_invalid" style="display: none;">El correo electrónico no tiene el formato válido.</p>
+    <p class="wsl_error" id="wsl_short_pwd" style="display: none;">La contraseña debe tener al menos 6 caracteres.</p>
+    <p class="wsl_error" id="wsl_pwd_not_match" style="display: none;">Las contraseñas no coinciden.</p>
+    <p id="wsl_check_email" style="display:none"><span id="check_username">Comprobando...</span></p>
+    <p class="mclear message status" id="nicename_not_reqd" style="display:none">Ya tienes nombre de usuario en Xataka: <strong id="username">chavalina</strong></p>
+    <p>
+      <label for="email">Correo electrónico: <input type="text" class="required text" name="fos_user_registration_form[email]" id="wsl_email" value="" size="30"></label>
+      <label for="password">Contraseña: <input type="password" size="20" class="required text" name="fos_user_registration_form[plainPassword][first]" id="wsl_password" value="">
+      <span class="mhelp">La contraseña debe tener al menos 6 caracteres.</span></label>
+      <label for="confirm_password">Repite la contraseña: <input type="password" size="20" class="required text" name="fos_user_registration_form[plainPassword][second]" id="wsl_confirm_password" value=""></label>
+    </p>
+    <p class="wsl_error" id="wsl_invalid_username" style="display: none;">El nombre de usuario no tiene el formato válido.</p>
+    <span id="wsl_res_username"></span>
+    <p class="mclear" id="username-box">
+      <label for="username">
+        El username no puede contener menos de 3 caracteres: www.xataka.com#usuario/ <input type="text" size="25" value="" id="wsl_username" name="user_name" class="required text ">
+        <span id="wsl_check_username" style="display: none;">Comprobando...</span>
+        <span class="mhelp">Se usa para la dirección de tu página de usuario, piénsalo bien porque <strong>no podrás cambiarlo</strong>. Mínimo 3 caracteres, se pueden usar números (pero no como carácter inicial), pero no mayúsculas, espacios, tildes o caracteres especiales.</span>
+      </label>
+    </p>
+    <p class="wsl_error" id="wsl_check_policy" style="display: none;">Debes aceptar la política de privacidad y de participación.</p>
+    <p><label for="condition_agree"><input type="checkbox" class="required" name="condition_agree" id="wsl_condition_agree" value="condition_agree"> He leído y acepto la <a target="_blank" id="politica" href="https://www.weblogssl.com/legal/"><strong>politica de privacidad y de participación</strong></a>.</label></p>
+    <div class="submit-area"><button id="wsl_register_button" type="submit" class="btn btn-primary button">Regístrate</button></div>
+  </form>
+  <div class="login-3rd-part">
+    <p>
+      <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="facebook-login" id="facebook_login">Entra con Facebook</a>
+      
+        <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="twitter-login" id="twitter_login">Entra con Twitter</a>
+      
+    </p>
+  </div>
+  <p id="already_acc">¿Ya tienes cuenta? <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-login" class="js-open-login">identifícate aquí</a></p>
+</div></nav>
+<nav class="nav nav-list nav-login" id="nav-recover"><a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-recover" class="head-menu-toggler js-close-menu"></a>
+<div class="head-menu">
+  <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#nav-recover" class="close close-corner js-close-menu"></a>
+  <form class="login-form">
+    <p class="help-msg">Te enviaremos un correo electrónico con un enlace para recuperar tu contraseña:</p>
+    <div class="alert-error alert-block" id="alert-error" style="display: none;">Este correo electrónico no corresponde a ninguna cuenta registrada en Xataka</div>
+    <div class="alert-error alert-block" id="alert-already-sent" style="display: none;">Ya has intentado recuperar la contraseña en las últimas 24 horas, revisa tu correo y también la carpeta de <em>spam</em>.</div>
+    <div class="alert-error alert-block" id="alert-user-deactivated" style="display: none;">Esta dirección de correo ya estuvo registrada y fue dada de baja.<br><br>Por favor, usa una dirección de correo diferente.</div>
+    <p>
+      <label for="recover-email">Correo electrónico: <input type="email" class="text" name="ud_username" id="recover-email" size="15"></label>
+    </p>
+    <button type="button" id="request_password_button" class="btn btn-primary">Recuperar contraseña</button> 
+    <a href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" class="cancel-link" id="back-to-login">Cancelar</a>
+    <div class="alert-success alert-block" id="alert-success" style="display: none;">Comprueba tu correo y haz click en el enlace que te hemos enviado para elegir tu nueva contraseña. Si no encuentras nuestro mensaje, comprueba también en <em>spam</em>, por favor.</div>
+  </form>
+</div></nav>
+<nav class="nav nav-list nav-login" id="nav-pick"></nav>
+ <div id="js-edit-user-profile-form"></div>
+ <div id="js-user-comments"></div>
+ <div id="js-modal-user-deactivate"></div>
+
+              <script>
+  window.WSLModules = window.WSLModules || {};
+  WSLModules.Footer = {'moduleConf' : 'c1'};
+</script>
+<footer class="foot js-foot">
+ <div class="wrapper foot-wrapper">
+  <div id="newsletter" class="newsletter-box"><form method="POST" class="js-subscription newsletter-form foot-newsletter-form" data-url="https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka"><p class="nav-heading">Recibe un email al día con los artículos de Xataka: </p>    <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p></form>
+   <div class="menu-follow foot-menu-follow">
+    <span class="item-meta foot-item-meta">Síguenos</span>
+    <ul>
+           <li><a href="http://twitter.com/xataka" class="icon-twitter link-twitter" rel="nofollow">Twitter</a></li>
+                <li><a href="https://www.facebook.com/Xataka" class="icon-facebook link-facebook" rel="nofollow">Facebook</a></li>
+                <li><a href="https://www.youtube.com/user/xatakatv?sub_confirmation=1" class="icon-youtube link-youtube" rel="nofollow">Youtube</a></li>
+                     <li><a href="https://instagram.com/xataka" class="icon-instagram link-instagram" rel="nofollow">Instagram</a></li>
+                <li><a href="https://telegram.me/xataka" class="icon-telegram link-telegram" rel="nofollow">Telegram</a></li>
+                <li><a href="https://www.xataka.com/index.xml" class="icon-rss link-rss" rel="nofollow">RSS</a></li>
+                          <li><a href="https://flipboard.com/@xataka" class="icon-flipboard link-flipboard" rel="nofollow">Flipboard</a></li>
+                <li><a href="https://www.linkedin.com/company/11275845/" class="icon-linkedin link-linkedin" rel="nofollow">LinkedIn</a></li>
+         </ul>
+   </div>
+  </div>
+  <nav class="menu-categories foot-menu-categories">
+   <p class="nav-heading">En Xataka hablamos de...</p>
+   <ul>
+         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/componentes">Componentes</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/ordenadores">Ordenadores</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/videojuegos">Videojuegos</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/analisis">Análisis</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/medicina-y-salud">Medicina y Salud</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/categoria/moviles">Móviles</a></li>             <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/apple">Apple</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/netflix">Netflix</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/xiaomi">Xiaomi</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/windows-10">Windows 10</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/despeja-la-x">Despeja la X</a></li>         <li><a class="list-item foot-list-item" href="https://www.xataka.com/tag/captcha-ia">Captcha IA</a></li>       </ul>
+   <p class="view-even-more"><a href="https://www.xataka.com/archivos" class="btn">Ver más temas</a></p>
+  </nav>
+  <script>
+   document.write('\
+    <div class="search-box foot-search">\
+     <div class="search-form js-search-form">\
+      <input id="search-field-3" type="text" placeholder="Buscar en Xataka" class="search-container-3" data-container="#search-container-3">\
+      <button class="search-button js-search-button" data-field="#search-field-3">Buscar</button>\
+     </div>\
+    </div>')
+  </script>    <div class="search-box foot-search">     <div class="search-form js-search-form">      <input id="search-field-3" type="text" placeholder="Buscar en Xataka" class="search-container-3" data-container="#search-container-3">      <button class="search-button js-search-button" data-field="#search-field-3">Buscar</button>     </div>    </div>
+  <div id="search-container-3" class="js-search-results"></div>
+ </div>
+</footer>
+<section class="foot-external js-foot-external">
+ <div class="wrapper foot-wrapper">
+  <header class="foot-head">
+   <a class="backlink foot-backlink" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#">Subir</a>
+    <p class="webedia-brand foot-webedia-brand">
+  <a href="https://www.webedia.es/" class="webedia-logo foot-webedia-logo"><span>Webedia</span></a>
+ </p>
+     </header>
+    <div class="menu-external foot-menu-external">
+  <div class="spain-blogs">
+         <div class="links-category">
+    <p class="channel-title"> Tecnología </p><ul><li><a class="list-item foot-list-item" rel="nofollow" href="https://www.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka</a></li><li><a class="list-item foot-list-item" href="https://www.xatakamovil.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Móvil</a></li><li><a class="list-item foot-list-item" href="https://www.xatakafoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Foto</a></li><li><a class="list-item foot-list-item" href="https://www.xatakandroid.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Android</a></li><li><a class="list-item foot-list-item" href="https://www.xatakahome.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Smart Home</a></li><li><a class="list-item foot-list-item" href="https://www.xatakawindows.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Windows</a></li><li><a class="list-item foot-list-item" href="https://www.xatakaciencia.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka Ciencia</a></li><li><a class="list-item foot-list-item" href="https://www.applesfera.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Applesfera</a></li><li><a class="list-item foot-list-item" href="https://www.genbeta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Genbeta</a></li><li><a class="list-item foot-list-item" href="https://magnet.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Magnet</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Videojuegos </p><ul><li><a class="list-item foot-list-item" href="https://www.3djuegos.com/#utm_source=3djuegos&amp;utm_medium=network&amp;utm_campaign=footer">3DJuegos</a></li><li><a class="list-item foot-list-item" href="https://www.vidaextra.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Vida Extra</a></li><li><a class="list-item foot-list-item" href="https://es.ign.com/#utm_source=ign&amp;utm_medium=network&amp;utm_campaign=footer">IGN</a></li><li><a class="list-item foot-list-item" href="https://esports.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Xataka eSports</a></li><li><a class="list-item foot-list-item" href="https://trasgo.net/?utm_source=trasgo&amp;utm_medium=network&amp;utm_campaign=footer">Trasgo</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Entretenimiento </p><ul><li><a class="list-item foot-list-item" href="http://www.sensacine.com/#utm_source=sensacine&amp;utm_medium=network&amp;utm_campaign=footer">Sensacine</a></li><li><a class="list-item foot-list-item" href="https://www.espinof.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Espinof</a></li><li><a class="list-item foot-list-item" href="https://www.thewatmag.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">WATmag</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Gastronomía </p><ul><li><a class="list-item foot-list-item" href="https://www.directoalpaladar.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Directo al Paladar</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Estilo de Vida </p><ul><li><a class="list-item foot-list-item" rel="nofollow" href="https://www.vitonica.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Vitónica</a></li><li><a class="list-item foot-list-item" href="https://www.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias</a></li><li><a class="list-item foot-list-item" href="https://www.trendenciashombre.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Trendencias Hombre</a></li><li><a class="list-item foot-list-item" rel="nofollow" href="https://decoracion.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Decoesfera</a></li><li><a class="list-item foot-list-item" href="https://www.compradiccion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Compradiccion</a></li></ul>
+  </div>
+   <div class="links-category">
+    <p class="channel-title"> Motor </p><ul><li><a class="list-item foot-list-item" href="https://www.motorpasion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión</a></li><li><a class="list-item foot-list-item" href="https://www.motorpasionmoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Motorpasión Moto</a></li></ul><p class="channel-title"> Economía </p><ul><li><a class="list-item foot-list-item" href="https://www.elblogsalmon.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">El Blog Salmón</a></li><li><a class="list-item foot-list-item" href="https://www.pymesyautonomos.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Pymes y Autónomos</a></li></ul><p class="channel-title"> Familia y Ocio </p><ul><li><a class="list-item foot-list-item" href="https://www.bebesymas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Bebés y Más</a></li><li><a class="list-item foot-list-item" href="https://www.diariodelviajero.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Diario del Viajero</a></li></ul>
+  </div>
+ 
+  </div>
+    <div class="others-blogs">
+   <p class="channel-title">Participamos en</p>
+         <div class="links-category">
+    <ul><li><a class="list-item foot-list-item" href="http://www.nobbot.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Nobbot</a></li><li><a class="list-item foot-list-item" href="http://www.tecnologiadetuatu.elcorteingles.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Tecnología de tú a tú</a></li><li><a class="list-item foot-list-item" href="http://www.bloglenovo.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Blog Lenovo</a></li><li><a class="list-item foot-list-item" rel="nofollow" href="https://www.inget.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Inget by acer</a></li><li><a class="list-item foot-list-item" href="http://blog.orange.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">By Orange - Blog de Orange</a></li><li><a class="list-item foot-list-item" href="https://eligebientubarrio.ing.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Elige Bien tu barrio</a></li><li><a class="list-item foot-list-item" href="https://bloygo.yoigo.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Bloygo</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item" href="https://poptv.orange.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Pop TV</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item" rel="nofollow" href="http://www.cocacolaespana.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Coca-Cola Journey España</a></li><li><a class="list-item foot-list-item" rel="nofollow" href="http://www.cocacolaportugal.pt/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Coca-Cola Journey Portugal</a></li><li><a class="list-item foot-list-item" href="http://zona.cocacola.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Zona Coca-Cola</a></li><li><a class="list-item foot-list-item" href="https://www.cervezasalhambra.es/momentos-alhambra/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Momentos Alhambra</a></li><li><a class="list-item foot-list-item" href="http://www.rentabilibar.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Mahou Rentabilibar</a></li></ul>
+  </div>
+   <div class="links-category">
+    <ul></ul>
+  </div>
+   <div class="links-category">
+    <ul><li><a class="list-item foot-list-item" href="http://www.circulaseguro.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Circula Seguro</a></li><li><a class="list-item foot-list-item" href="http://www.circulaseguro.pt/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Circula Seguro PT</a></li><li><a class="list-item foot-list-item" href="https://www.tuenergiacuenta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Tu Energía Cuenta</a></li><li><a class="list-item foot-list-item" href="https://hablemosdeempresas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Hablemos de empresas</a></li><li><a class="list-item foot-list-item" href="https://www.ennaranja.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">En Naranja</a></li><li><a class="list-item foot-list-item" href="http://blog.sage.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Sage Experience</a></li><li><a class="list-item foot-list-item" href="https://www.huellasbysareb.es/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Huellas by Sareb</a></li><li><a class="list-item foot-list-item" href="https://www.smartcitylab.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=footer">Smart.City_Lab</a></li></ul>
+  </div>
+ 
+  </div>
+ </div>
+ </div>
+     <aside id="head-favicons" class="head-favicons-container m-is-later js-head-favicons m-favicons-compact">
+ <div class="head-favicons">
+     <div class="head-favicons-index head-webedia-logo">
+    <a class="js-group-toggle" href="https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven#" data-target="#head-network"><abbr title="Webedia">Webedia</abbr></a>
+   </div>
+    <div class="head-group"><span class="head-group-logo"></span></div>
+  <ul class="head-favicons-list">
+                                       <li>
+      <a class="favicon tec-xataka
+              favicon-current
+       " rel="nofollow" href="https://www.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-vidaextra
+       " href="https://www.vidaextra.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Vida Extra</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-espinof
+       " href="https://www.espinof.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Espinof</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon eco-elblogsalmon
+       " href="https://www.elblogsalmon.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>El Blog Salmón</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-genbeta
+       " href="https://www.genbeta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Genbeta</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon mot-motorpasion
+       " href="https://www.motorpasion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Motorpasión</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-directoalpaladar
+       " href="https://www.directoalpaladar.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Directo al Paladar</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-bebesymas
+       " href="https://www.bebesymas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Bebés y Más</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-diariodelviajero
+       " href="https://www.diariodelviajero.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Diario del Viajero</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakaciencia
+       " href="https://www.xatakaciencia.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Ciencia</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendencias
+       " href="https://www.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Trendencias</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-applesfera
+       " href="https://www.applesfera.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Applesfera</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakamovil
+       " href="https://www.xatakamovil.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Móvil</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon mot-motorpasionmoto
+       " href="https://www.motorpasionmoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Motorpasión Moto</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-decoesfera
+       " rel="nofollow" href="https://decoracion.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Decoesfera</span>
+      </a>
+     </li>
+                                     <li>
+      <a class="favicon est-vitonica
+       " rel="nofollow" href="https://www.vitonica.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Vitónica</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakafoto
+       " href="https://www.xatakafoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Foto</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon eco-pymesyautonomos
+       " href="https://www.pymesyautonomos.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Pymes y Autónomos</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon est-trendenciashombre
+       " href="https://www.trendenciashombre.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Trendencias Hombre</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakandroid
+       " href="https://www.xatakandroid.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Android</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakahome
+       " href="https://www.xatakahome.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Smart Home</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tec-xatakawindows
+       " href="https://www.xatakawindows.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Xataka Windows</span>
+      </a>
+     </li>
+                                                    <li>
+      <a class="favicon tec-magnet
+       " href="https://magnet.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Magnet</span>
+      </a>
+     </li>
+                                <li>
+       <a class="favicon tec-compradiccion " href="https://www.compradiccion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+        <span>Compradiccion</span>
+       </a>
+      </li>
+                                       <li>
+         <a class="favicon tec-xatakaesports " href="https://esports.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+          <span>Xataka eSports</span>
+         </a>
+        </li>
+                               <li>
+      <a class="favicon oci-thewatmag " href="https://www.thewatmag.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>WATmag</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-3djuegos
+       " href="https://www.3djuegos.com/#utm_source=3djuegos&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>3DJuegos</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon oci-sensacine
+       " href="http://www.sensacine.com/#utm_source=sensacine&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>Sensacine</span>
+      </a>
+     </li>
+                          <li>
+      <a class="favicon tech-ign
+       " href="https://es.ign.com/#utm_source=ign&amp;utm_medium=network&amp;utm_campaign=favicons">
+       <span>IGN</span>
+      </a>
+     </li>
+         </ul>
+ </div>
+</aside>
+<aside class="favicons-expanded-container js-favicons-expand" id="head-network">
+ <div class="favicons-expanded">
+           <div class="favicons-expanded-inner">
+    <ul><li><h4>Tecnología</h4></li><li><a class="favicon tec-xataka" rel="nofollow" href="https://www.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka
+    </a></li><li><a class="favicon tec-xatakamovil" href="https://www.xatakamovil.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Móvil
+    </a></li><li><a class="favicon tec-xatakafoto" href="https://www.xatakafoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Foto
+    </a></li><li><a class="favicon tec-xatakandroid" href="https://www.xatakandroid.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Android
+    </a></li><li><a class="favicon tec-xatakahome" href="https://www.xatakahome.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Smart Home
+    </a></li><li><a class="favicon tec-xatakawindows" href="https://www.xatakawindows.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Windows
+    </a></li><li><a class="favicon tec-xatakaciencia" href="https://www.xatakaciencia.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka Ciencia
+    </a></li><li><a class="favicon tec-applesfera" href="https://www.applesfera.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Applesfera
+    </a></li><li><a class="favicon tec-genbeta" href="https://www.genbeta.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Genbeta
+    </a></li><li><a class="favicon tec-magnet" href="https://magnet.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Magnet
+    </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Videojuegos</h4></li><li><a class="favicon tech-3djuegos" href="https://www.3djuegos.com/#utm_source=3djuegos&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>3DJuegos
+    </a></li><li><a class="favicon tec-vidaextra" href="https://www.vidaextra.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Vida Extra
+    </a></li><li><a class="favicon tech-ign" href="https://es.ign.com/#utm_source=ign&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>IGN
+    </a></li><li><a class="favicon tec-xatakaesports" href="https://esports.xataka.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Xataka eSports
+    </a></li><li><a class="favicon tech-3djuegos" href="https://trasgo.net/?utm_source=trasgo&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Trasgo
+    </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Entretenimiento</h4></li><li><a class="favicon oci-sensacine" href="http://www.sensacine.com/#utm_source=sensacine&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Sensacine
+    </a></li><li><a class="favicon oci-espinof" href="https://www.espinof.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Espinof
+    </a></li><li><a class="favicon oci-thewatmag" href="https://www.thewatmag.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>WATmag
+    </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Gastronomía</h4></li><li><a class="favicon est-directoalpaladar" href="https://www.directoalpaladar.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Directo al Paladar
+    </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Estilo de Vida</h4></li><li><a class="favicon est-vitonica" rel="nofollow" href="https://www.vitonica.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Vitónica
+    </a></li><li><a class="favicon est-trendencias" href="https://www.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Trendencias
+    </a></li><li><a class="favicon est-trendenciashombre" href="https://www.trendenciashombre.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Trendencias Hombre
+    </a></li><li><a class="favicon est-decoesfera" rel="nofollow" href="https://decoracion.trendencias.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Decoesfera
+    </a></li><li><a class="favicon tec-compradiccion" href="https://www.compradiccion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Compradiccion
+    </a></li></ul>
+  </div>
+   <div class="favicons-expanded-inner">
+    <ul><li><h4>Motor</h4></li><li><a class="favicon mot-motorpasion" href="https://www.motorpasion.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Motorpasión
+    </a></li><li><a class="favicon mot-motorpasionmoto" href="https://www.motorpasionmoto.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Motorpasión Moto
+    </a></li></ul><ul><li><h4>Economía</h4></li><li><a class="favicon eco-elblogsalmon" href="https://www.elblogsalmon.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>El Blog Salmón
+    </a></li><li><a class="favicon eco-pymesyautonomos" href="https://www.pymesyautonomos.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Pymes y Autónomos
+    </a></li></ul><ul><li><h4>Familia y Ocio</h4></li><li><a class="favicon est-bebesymas" href="https://www.bebesymas.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Bebés y Más
+    </a></li><li><a class="favicon oci-diariodelviajero" href="https://www.diariodelviajero.com/?utm_source=xataka&amp;utm_medium=network&amp;utm_campaign=favicons"><span></span>Diario del Viajero
+    </a></li></ul>
+  </div>
+ 
+ </div>
+ </aside>
+ </section>
+<div id="adblock_placeholder"></div>
+ <script>
+  (function() {
+   var form = document.createElement('form');
+   form.method = 'POST';
+   form.classList.add('js-subscription', 'newsletter-form', 'foot-newsletter-form');
+   form.setAttribute('data-url', "https://mailer.weblogssl.com/subscribe_check/#email#/xataka/Xataka");
+   form.innerHTML = '<p class="nav-heading">Recibe un email al día con los artículos de Xataka: </p>\
+    <p><input class="js-email newsletter-input" type="email" placeholder="Tu correo electrónico">\
+    <button class="btn-primary newsletter-button" type="submit">Suscribir</button></p>';
+   var newsletterContainer = document.getElementById('newsletter');
+   newsletterContainer.insertBefore(form, newsletterContainer.firstChild);
+  })();
+ </script>
+
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/xd_arbiter.html" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f18bc9e088f578" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/ping.html" style="display: none;"></iframe></div></div></div>
+                   <div id="cookies-overlay" class="cookies-overlay"></div>           </div>
+    </div>
+          
+<script>
+ var WSL2 = WSL2 || {};
+ WSL2 = {
+  config: {
+   fbapikey: "355823546895",
+   fbApiVersion: "v3.2",
+   cookieDomain: "",
+   siteName: "Xataka",
+   imagePath: "https://img.weblogssl.com/css/xataka/p/v6",
+   desktopSiteUrl: "https://www.xataka.com",
+   redirectDesktopRoot: 'false',
+   postId: 208902,
+   postTitle: "12\u0020sensores\u0020que\u0020encontrar\u00E1s\u0020en\u0020tu\u0020m\u00F3vil\u003A\u0020c\u00F3mo\u0020funcionan\u0020y\u0020para\u0020qu\u00E9\u0020sirven",
+   tweetText: "12%20sensores%20que%20encontrar%C3%A1s%20en%20tu%20m%C3%B3vil%3A%20c%C3%B3mo%20funcionan%20y%20para%20qu%C3%A9%20sirven",
+   twitterName: "xataka",
+   device: "desktop",
+   postUrl: "https://www.xataka.com/basics/12-sensores-que-encontraras-tu-movil-sirven",
+   enableRecommendationTracker: "1",
+   enableAmplifyABTesting: "0",
+   enabledRecoverPassword: "1",
+   enableFbQuoteSharing: "1",
+   enableCommentDeleteOption: "1",
+   disableDesktopLazyLoadingImages: "1",
+   enableSidebarRecommendations: "1",
+   blogMeta: {
+    mnemonic: "XTK",
+    blogDomain: "xataka.com"
+   },
+   adblockLatCampaignTarget: "http://brave.com/xat342",
+   enableAmplifyTracker: "1",
+   recommendationEngineVersion: 1,
+   enableCen2AdInComments: 0,
+   enablePinterestSharing: 0,
+   showPostModifiedDate: 1,
+   enableUserProfileV2: 1,
+   enableGiphyInComments: 0,
+   enableUserOptOutProcess: 1,
+   postSubType: "normal",
+   enableNanomediaHeader: 1,
+   enableAdblockEcommerce: 1,
+   adminUrl: "https://admin.xataka.com",
+   enableInfinitePageview: 0,
+  }
+ };
+
+ </script>
+ <script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/postpage-f4035ac7.js.descarga"></script>
+       <script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/1"></script>
+ <script async="" src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/xataka"></script>
+ <script>
+  (function(d) {
+   if ('ES' !== country) {
+    return;
+   }
+
+   var b = d.body;
+   var e = d.createElement('script');
+   e.id = 'parsely-cfg';
+   e.src = '//cdn.parsely.com/keys/xataka.com/p.js';
+   e.async = true;
+   e.setAttribute('data-parsely-site', "xataka.com");
+   b.appendChild(e);
+  })(document);
+ </script>
+<script type="text/x-template" id="js-adblock-products">
+ [{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B07HNMN7TM\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07HNMN7TM&linkCode=am2&tag=xataka-banner-adblock-21&linkId=c15e517dfbcb4a08faa05675bda2b286","title":"Cecotec Conga Serie 3090","asin":"B07HNMN7TM","image":"https:\/\/img.weblogssl.com\/g\/images\/cecotec_conga_serie_3090.jpg","price":"275,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B01ETRGE7M\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01ETRGE7M&linkCode=am2&tag=xataka-banner-adblock-21&linkId=646320bec1696956a1736eea987b18cd","title":"Fire TV Stick","asin":"B01ETRGE7M","image":"https:\/\/img.weblogssl.com\/g\/images\/fire_tv_stick%20.png","price":"39,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B077QHRLPB\/ref=as_li_tl?ie=UTF8&tag=xataka-banner-adblock-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B077QHRLPB&linkId=a05ce0d1e76a7fca419a3cbce5747c30","title":"Xiaomi Mi Scooter M365","asin":"B077QHRLPB","image":"https:\/\/img.weblogssl.com\/g\/images\/xiaomi_mi_scooter_m365.png","price":"369,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/offer-listing\/B07NRK942P\/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07NRK942P&linkCode=am2&tag=xataka-banner-adblock-21&linkId=618d66850401498557c7309cbea08404","title":"Xiaomi Mi 9","asin":"B07NRK942P","image":"https:\/\/img.weblogssl.com\/g\/images\/xaomi9.jpg","price":"429,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B07GDR2PH9\/?tag=xataka-banner-adblock-21","title":"Auriculares bluetooth cancelaci\u00f3n de ruido","asin":"B07GDR2PH9","image":"https:\/\/img.weblogssl.com\/g\/images\/Sony_WH-1000XM3S.jpg","price":"295,00","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/gp\/product\/B016H0R7SE\/?tag=xataka-banner-adblock-21","title":"Philips Hue White","asin":"B016H0R7SE","image":"https:\/\/img.weblogssl.com\/g\/images\/Philips_Hue_White.jpg","price":"59,46","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/SanDisk-Ultra-Android-microSDXC-adaptador\/dp\/B0758NHWS8\/?tag=xataka-banner-adblock-21","title":"Tarjeta de memoria microSDXC de 256 GB","asin":"B0758NHWS8","image":"https:\/\/img.weblogssl.com\/g\/images\/Tarjeta_de_memoria_microSDXC.jpg","price":"34,99","currency":"EUR"},{"url":"https:\/\/www.amazon.es\/dp\/B07SNG23JW\/?tag=xataka-banner-adblock-21","title":"Xiaomi Mi Smart Band 4","asin":"B07SNG23JW","image":"https:\/\/img.weblogssl.com\/g\/images\/Xiaomi_Mi_Smart_Band_4.jpg","price":"19,00","currency":"EUR"}]
+</script>
+                  
+       </div>
+  </div>
+     
+
+<iframe src="./12 sensores que encontrarás en tu móvil_ cómo funcionan y para qué sirven_files/iu3.html" style="display: none;"></iframe></body></html>

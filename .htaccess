@@ -1,0 +1,17 @@
+#IMPEDIR QUE SE PUEDA VER EL LISTADO DE CONTENIDOS DE  UN DIRECTORIO
+
+Options All -Indexes
+
+#URL AMIGABLES
+
+RewriteEngine On
+
+
+RewriteRule ^([-a-zA-Z0-9/]+)$ index.php?url=$1
+
+# PHP Memory Limit
+php_value upload_max_filesize 32M
+php_value post_max_size 64M
+php_value memory_limit 128M
+php_value max_execution_time 300
+php_value max_input_time 300
