@@ -1,10 +1,10 @@
-<h2>Lector de pdfs Text to Speech </h2>
+<!-- <h2>Lector de pdfs Text to Speech </h2>
 
 <p> #Proyecto realizado en PHP, JS, PDF.JS, HTML5, CSS3, BOOTSTRAP, FONT AWESOME. </p>
 
 <h3>Sección 1 .- "Registro y Loging"</h3>
 ![Registro de usuarios administradores de pdfs]
-(https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png?raw=true)
+(https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png?)
 <br>
 ![Registro de usuarios administradores de pdfs](https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png)
 
@@ -30,4 +30,7 @@ luna comandos
 luna opciones
 </li>
 </ul>
+ -->
 
+![Registro de usuarios administradores de pdfs]
+(https://github.com/DavidHernandezSolis/lector-pdfs/blob/main/seccion2img2.png?)
